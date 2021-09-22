@@ -19,4 +19,4 @@ This page show the tips which solved my problems in workfolw.
 |---|---|---|
 |Rcpp|[link](https://www.r-bloggers.com/2014/02/three-ways-to-call-cc-from-r/)|Using C++ in R|
 |Output|[link](https://stackoverflow.com/questions/36699272/why-is-message-a-better-choice-than-print-in-r-for-writing-a-package/36700294)|Output types|
-|String|[link](https://stackoverflow.com/questions/11164667/how-can-i-remove-repeated-characters-in-a-string-with-r|sN|
+|String|[link](https://stackoverflow.com/questions/11164667/how-can-i-remove-repeated-characters-in-a-string-with-r)|sN|
