@@ -31,3 +31,13 @@ This page show the tips which solved my problems in workfolw.
 |reproducible|[link](https://en.bio-protocol.org/Default.aspx)|bio-protocol|
 |Experiment disign|[link](https://eda.nc3rs.org.uk/)|Experimental Design Assistant|
 |Item|[link](https://scicrunch.org/resources)|Research Resource Identifiers|
+
+## Resource
+|Topic|Link|Note|
+|---|---|---|
+|Canadian Science Advisory Secretariat|[link](https://www.dfo-mpo.gc.ca/csas-sccs/index-eng.htm)|Marine news|
+
+## Flow chart
+|Topic|Link|Note|
+|---|---|---|
+|Biorender|[link](https://biorender.com/)|Workflow plot|
