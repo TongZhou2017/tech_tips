@@ -1,0 +1,11 @@
+r-bloggers.com/2021/09/r-shiny-templates-from-appsilon-are-now-available/
+
+https://www.r-bloggers.com/2019/12/data-dashboard-butterfly-species-richness-in-los-angeles/
+
+https://github.com/GoekeLab/bioinformatics-workflows#acknowledgements
+
+https://docs.seq-lang.org/
+
+https://biorender.com/
+
+https://engineering-shiny.org/
