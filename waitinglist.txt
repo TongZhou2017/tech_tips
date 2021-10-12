@@ -23,3 +23,13 @@ https://github.com/mjskay/ggdist
 https://xfam.wordpress.com/2021/03/24/google-research-team-bring-deep-learning-to-pfam/
 
 https://appsilon.com/blog/
+
+https://rtask.thinkr.fr/the-r-series-engineering-production-grade-shiny-apps-book-is-available-in-print/?utm_source=dlvr.it&utm_medium=twitter
+
+https://github.com/amandawarr/Lilo
+
+https://rspatialdata.github.io/
+
+https://ggplot2-book-solutions-3ed.netlify.app/
+
+https://star-protocols.cell.com/protocols/882
