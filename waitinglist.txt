@@ -107,3 +107,23 @@ https://earthobservatory.nasa.gov/images/148974/late-bloomers-in-the-arctic
 https://www.emerald.com/insight/content/doi/10.1108/AAAJ-01-2019-030/full/html
 
 https://www.youtube.com/watch?v=EpTkT6Rkgbs
+
+https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter4.html
+
+https://www.youtube.com/watch?v=soYZzBVTNUw
+
+https://discardstudies.com/2015/06/05/how-the-ocean-clean-up-array-fundamentally-misunderstands-marine-plastics-and-causes-harm/
+
+https://news.mongabay.com/2021/10/deep-seabed-mining-is-risky-if-something-goes-wrong-who-will-pay-for-it/
+
+https://ecowatch.noaa.gov/
+
+http://www.cas.cn/syky/202110/t20211022_4810803.shtml
+
+https://github.com/irrationone/cellassign/
+
+https://github.com/GoekeLab/awesome-nanopore
+
+https://github.com/sindresorhus/awesome
+
+https://phys.org/news/2021-10-tiny-microscopic-hunters-crystal-ball.html
