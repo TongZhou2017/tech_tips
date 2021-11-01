@@ -161,3 +161,7 @@ http://ge-lab.org/#/edu
 https://github.com/SvetlanaUP/A-microbiologist-wants-to-compute
 
 http://bioconductor.org/packages/release/bioc/html/epigraHMM.html
+
+https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/clustering-algorithms-evaluation-r/tutorial/
+
+https://holtzy.github.io/data_analysis_website/
