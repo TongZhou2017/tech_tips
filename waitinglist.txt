@@ -173,3 +173,8 @@ http://www.danieldsjoberg.com/gtsummary/
 https://www.youtube.com/watch?v=yS5sCl8RF7s
 
 https://www.newscientist.com/lastword/mg25133583-000-do-magnets-have-any-effects-on-human-cells/?utm_medium=social&utm_campaign=echobox&utm_source=Twitter#Echobox=1635786071-1
+
+https://github.com/davidsjoberg/ggbump
+
+https://rdrr.io/github/milescsmith/dim.reduction.wrappers/man/pacmap.html
+
