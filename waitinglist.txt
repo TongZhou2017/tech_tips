@@ -178,3 +178,27 @@ https://github.com/davidsjoberg/ggbump
 
 https://rdrr.io/github/milescsmith/dim.reduction.wrappers/man/pacmap.html
 
+https://www.youtube.com/playlist?list=PL4ZUlAlk7QidhS8XsVqnwGnJMMEdC5Qlp 高效R编程视频教程
+
+https://coolbutuseless.github.io/2021/11/04/custom-ggplot2-point-shapes-with-gggrid/ 自定义ggplot点图形状
+
+https://www.dabbleofdevops.com/blog/bioinformatics-solutions-on-aws-book-preview 在AWS进行生物信息分析
+
+https://github.com/PacificBiosciences/pbAA PacBio扩增子数据分析工具
+
+https://github.com/nanoporetech/rerio Nanopore信号识别工具
+
+https://forum.qiime2.org/t/jaceard-vs-bray-curtis-vs-unifrac/9733 三种beta多样性距离的含义
+
+https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/ 博后职位
+
+https://www.marine.science/2021/11/05/seminar-the-future-of-coral-reefs-in-a-warming-world/ 全球变暖下的珊瑚礁
+
+https://github.com/steveharoz/painbow/?1 梯度图配色策略
+
+https://apnews.com/article/climate-science-business-environment-united-nations-74f241bc43f1cd8123bb07aa1495c47e 墨西哥红树林的生态学作用
+
+https://github.com/hemberg-lab/sc3s SC3C整合进入Scanpy进行分析
+
+https://www.r-bloggers.com/2021/11/markov-transition-animated-plots/ 隐马模型训练过程可视化
+
