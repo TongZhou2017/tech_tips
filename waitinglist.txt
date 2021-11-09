@@ -208,3 +208,6 @@ https://www.nationalgeographic.com/animals/article/this-fish-grows-20-new-teeth-
 
 https://www.science.org/content/article/poor-sleep-takes-heavy-toll-communities-color-can-scientists-help?utm_campaign=NewsfromScience&utm_source=Social&utm_medium=Twitter 低质量睡眠的危害
 
+https://github.com/dkahle/ggmap 地图上绘制站位点工具
+
+https://github.com/BigDataBiology/macrel 宏基因组数据中提取抗菌肽序列工具
