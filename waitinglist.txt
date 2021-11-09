@@ -202,3 +202,9 @@ https://github.com/hemberg-lab/sc3s SC3C整合进入Scanpy进行分析
 
 https://www.r-bloggers.com/2021/11/markov-transition-animated-plots/ 隐马模型训练过程可视化
 
+https://astrobiology.nasa.gov/news/life-in-the-extreme-hydrothermal-vents/ 热液极端环境中的生物
+
+https://www.nationalgeographic.com/animals/article/this-fish-grows-20-new-teeth-per-day-pacific-lingcod 每天换牙的鱼
+
+https://www.science.org/content/article/poor-sleep-takes-heavy-toll-communities-color-can-scientists-help?utm_campaign=NewsfromScience&utm_source=Social&utm_medium=Twitter 低质量睡眠的危害
+
