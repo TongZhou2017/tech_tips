@@ -211,3 +211,18 @@ https://www.science.org/content/article/poor-sleep-takes-heavy-toll-communities-
 https://github.com/dkahle/ggmap 地图上绘制站位点工具
 
 https://github.com/BigDataBiology/macrel 宏基因组数据中提取抗菌肽序列工具
+
+https://github.com/gaborcsardi/rencfaq/blob/main/what-every.md R开发中编码问题
+
+http://kevinushey.github.io/blog/2018/02/21/string-encoding-and-r/ R开发中编码问题
+
+https://svn.r-project.org/R-dev-web/trunk/WindowsBuilds/winutf8/ucrt3/howto.html R开发中编码问题
+
+https://www.protocols.io/view/large-volume-fungal-genomic-dna-extraction-protoco-qtjdwkn 大量真菌DNA提取流程
+
+https://www.protocols.io/view/small-volume-fungal-genomic-dna-extraction-protoco-3w9gph6 小量真菌DNA提取流程
+
+https://cran.r-project.org/web/packages/targets/vignettes/overview.html targets包助力复现
+
+https://rstudio.github.io/renv/articles/renv.html renv包助力复现
+
