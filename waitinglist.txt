@@ -226,3 +226,9 @@ https://cran.r-project.org/web/packages/targets/vignettes/overview.html targets�
 
 https://rstudio.github.io/renv/articles/renv.html renv包助力复现
 
+https://github.com/tidymodels/broom R包整理模型参数为表格 用于R包开发基础操作
+
+https://towardsdatascience.com/accelerating-data-exploration-e0047fbd08b6 从数据结果中引导数据分析 数据科学博客
+
+https://share.fireside.fm/episode/87RSVeFz+EyQjGzG8 R周报 信息汇总
+
