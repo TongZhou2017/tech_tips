@@ -244,3 +244,4 @@ https://www.mpi-bremen.de/en/ARB-7.html 系统发育分析工具arb新版本 微
 
 https://us02web.zoom.us/w/84773797721?tk=P9gheiT3HwrvW6oRJtDrML6CYYA24Fz7MdEkpJWdm04.DQMAAAATvOl_WRZiaU1OZmhsUVJWMlFVTzZrczF3Ymd3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_UpcI21kiRwmgFqyq86CLBw 单细胞讲座 讲座培训
 
+https://www.business-science.io/code-tools/2020/06/29/introducing-modeltime.html?utm_content=bufferc72e5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer R时间序列分析 时间序列分析
