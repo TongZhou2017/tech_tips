@@ -1,3 +1,106 @@
+# Waiting list
+
+## Topics
+
+## Jobs 1
+https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/ 博后职位
+
+## Marine Science 4
+https://astrobiology.nasa.gov/news/life-in-the-extreme-hydrothermal-vents/ 热液极端环境中的生物
+
+https://www.marine.science/2021/11/05/seminar-the-future-of-coral-reefs-in-a-warming-world/ 全球变暖下的珊瑚礁
+
+https://apnews.com/article/climate-science-business-environment-united-nations-74f241bc43f1cd8123bb07aa1495c47e 墨西哥红树林的生态学作用
+
+https://www.nationalgeographic.com/animals/article/this-fish-grows-20-new-teeth-per-day-pacific-lingcod 每天换牙的鱼
+
+## Web disgn 1
+https://holtzy.github.io/data_analysis_website/ 数据可视化示例 博客范例
+
+## Bioinformatics sources 7
+https://github.com/SvetlanaUP/A-microbiologist-wants-to-compute 生物信息学习资料列表 学习资源列表
+
+https://www.youtube.com/watch?v=yS5sCl8RF7s 深度学习解析DNA二级结构 深度学习应用于生物问题
+
+https://www.youtube.com/playlist?list=PL4ZUlAlk7QidhS8XsVqnwGnJMMEdC5Qlp 高效R编程视频教程
+
+https://www.dabbleofdevops.com/blog/bioinformatics-solutions-on-aws-book-preview 在AWS进行生物信息分析
+
+https://towardsdatascience.com/accelerating-data-exploration-e0047fbd08b6 从数据结果中引导数据分析 数据科学博客
+
+https://us02web.zoom.us/w/84773797721?tk=P9gheiT3HwrvW6oRJtDrML6CYYA24Fz7MdEkpJWdm04.DQMAAAATvOl_WRZiaU1OZmhsUVJWMlFVTzZrczF3Ymd3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_UpcI21kiRwmgFqyq86CLBw 单细胞讲座 讲座培训
+
+https://yulab-smu.top/treedata-book/index.html 进化树可视化书 余光创出品
+
+## Wet lab tips 2
+https://www.protocols.io/view/large-volume-fungal-genomic-dna-extraction-protoco-qtjdwkn 大量真菌DNA提取流程
+
+https://www.protocols.io/view/small-volume-fungal-genomic-dna-extraction-protoco-3w9gph6 小量真菌DNA提取流程
+
+## R package dev tip 19
+http://www.danieldsjoberg.com/gtsummary/ R包gtsummary汇总函数及表格 纳入开发
+
+https://github.com/davidsjoberg/ggbump R包ggbump绘制关联图 地图中绘制关联数据
+
+http://bioconductor.org/packages/release/bioc/html/epigraHMM.html R包使用HMM模型研究表观组学数据 参考HMM设计
+
+https://docs.ropensci.org/spelling/index.html 自动纠正拼写错误的R包 RStudio环境部署
+
+https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/clustering-algorithms-evaluation-r/tutorial/ 聚类结果评估 纳入开发
+
+https://coolbutuseless.github.io/2021/11/04/custom-ggplot2-point-shapes-with-gggrid/ 自定义ggplot点图形状
+
+https://share.fireside.fm/episode/87RSVeFz+EyQjGzG8 R周报 信息汇总
+
+https://github.com/jtlandis/ggside R包ggside边缘图 纳入开发
+
+http://www.dovov.com/ggplot2-9.html R边缘图汇总 思路参考
+
+https://www.coder.work/article/6843921 R函数plot_grid图版绘制 文章图版绘制
+
+https://github.com/gaborcsardi/rencfaq/blob/main/what-every.md R开发中编码问题
+
+http://kevinushey.github.io/blog/2018/02/21/string-encoding-and-r/ R开发中编码问题
+
+https://svn.r-project.org/R-dev-web/trunk/WindowsBuilds/winutf8/ucrt3/howto.html R开发中编码问题
+
+https://cran.r-project.org/web/packages/targets/vignettes/overview.html targets包助力复现
+
+https://rstudio.github.io/renv/articles/renv.html renv包助力复现
+
+https://github.com/tidymodels/broom R包整理模型参数为表格 用于R包开发基础操作
+
+https://github.com/dkahle/ggmap 地图上绘制站位点工具
+
+https://www.business-science.io/code-tools/2020/06/29/introducing-modeltime.html?utm_content=bufferc72e5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer R时间序列分析 时间序列分析
+
+https://github.com/steveharoz/painbow/?1 梯度图配色策略
+
+## Bioinformatis tools 7
+https://rdrr.io/github/milescsmith/dim.reduction.wrappers/man/pacmap.html 降维分析工具 大数据分析
+
+https://github.com/PacificBiosciences/pbAA PacBio扩增子数据分析工具
+
+https://github.com/nanoporetech/rerio Nanopore信号识别工具
+
+https://github.com/hemberg-lab/sc3s SC3C整合进入Scanpy进行分析
+
+https://www.r-bloggers.com/2021/11/markov-transition-animated-plots/ 隐马模型训练过程可视化
+
+https://github.com/BigDataBiology/macrel 宏基因组数据中提取抗菌肽序列工具
+
+https://www.mpi-bremen.de/en/ARB-7.html 系统发育分析工具arb新版本 微生物组工具
+
+## Bioinformatics basic knowlage 1
+https://forum.qiime2.org/t/jaceard-vs-bray-curtis-vs-unifrac/9733 三种beta多样性距离的含义
+
+## Human health 2
+https://www.newscientist.com/lastword/mg25133583-000-do-magnets-have-any-effects-on-human-cells/?utm_medium=social&utm_campaign=echobox&utm_source=Twitter#Echobox=1635786071-1 磁场对人类细胞的影响 细胞趋磁性
+
+https://www.science.org/content/article/poor-sleep-takes-heavy-toll-communities-color-can-scientists-help?utm_campaign=NewsfromScience&utm_source=Social&utm_medium=Twitter 低质量睡眠的危害
+
+## Raw list
+
 r-bloggers.com/2021/09/r-shiny-templates-from-appsilon-are-now-available/
 
 https://www.r-bloggers.com/2019/12/data-dashboard-butterfly-species-richness-in-los-angeles/
@@ -158,90 +261,3 @@ http://bioinformatics.sdstate.edu/go/#tab-6882-1
 
 http://ge-lab.org/#/edu
 
-https://github.com/SvetlanaUP/A-microbiologist-wants-to-compute 生物信息学习资料列表 学习资源列表
-
-http://bioconductor.org/packages/release/bioc/html/epigraHMM.html R包使用HMM模型研究表观组学数据 参考HMM设计
-
-https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/clustering-algorithms-evaluation-r/tutorial/ 聚类结果评估 纳入开发
-
-https://holtzy.github.io/data_analysis_website/ 数据可视化示例 博客范例
-
-https://docs.ropensci.org/spelling/index.html 自动纠正拼写错误的R包 RStudio环境部署
-
-http://www.danieldsjoberg.com/gtsummary/ R包gtsummary汇总函数及表格 纳入开发
-
-https://www.youtube.com/watch?v=yS5sCl8RF7s 深度学习解析DNA二级结构 深度学习应用于生物问题
-
-https://www.newscientist.com/lastword/mg25133583-000-do-magnets-have-any-effects-on-human-cells/?utm_medium=social&utm_campaign=echobox&utm_source=Twitter#Echobox=1635786071-1 磁场对人类细胞的影响 细胞趋磁性
-
-https://github.com/davidsjoberg/ggbump R包ggbump绘制关联图 地图中绘制关联数据
-
-https://rdrr.io/github/milescsmith/dim.reduction.wrappers/man/pacmap.html 降维分析工具 大数据分析
-
-https://www.youtube.com/playlist?list=PL4ZUlAlk7QidhS8XsVqnwGnJMMEdC5Qlp 高效R编程视频教程
-
-https://coolbutuseless.github.io/2021/11/04/custom-ggplot2-point-shapes-with-gggrid/ 自定义ggplot点图形状
-
-https://www.dabbleofdevops.com/blog/bioinformatics-solutions-on-aws-book-preview 在AWS进行生物信息分析
-
-https://github.com/PacificBiosciences/pbAA PacBio扩增子数据分析工具
-
-https://github.com/nanoporetech/rerio Nanopore信号识别工具
-
-https://forum.qiime2.org/t/jaceard-vs-bray-curtis-vs-unifrac/9733 三种beta多样性距离的含义
-
-https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/ 博后职位
-
-https://www.marine.science/2021/11/05/seminar-the-future-of-coral-reefs-in-a-warming-world/ 全球变暖下的珊瑚礁
-
-https://github.com/steveharoz/painbow/?1 梯度图配色策略
-
-https://apnews.com/article/climate-science-business-environment-united-nations-74f241bc43f1cd8123bb07aa1495c47e 墨西哥红树林的生态学作用
-
-https://github.com/hemberg-lab/sc3s SC3C整合进入Scanpy进行分析
-
-https://www.r-bloggers.com/2021/11/markov-transition-animated-plots/ 隐马模型训练过程可视化
-
-https://astrobiology.nasa.gov/news/life-in-the-extreme-hydrothermal-vents/ 热液极端环境中的生物
-
-https://www.nationalgeographic.com/animals/article/this-fish-grows-20-new-teeth-per-day-pacific-lingcod 每天换牙的鱼
-
-https://www.science.org/content/article/poor-sleep-takes-heavy-toll-communities-color-can-scientists-help?utm_campaign=NewsfromScience&utm_source=Social&utm_medium=Twitter 低质量睡眠的危害
-
-https://github.com/dkahle/ggmap 地图上绘制站位点工具
-
-https://github.com/BigDataBiology/macrel 宏基因组数据中提取抗菌肽序列工具
-
-https://github.com/gaborcsardi/rencfaq/blob/main/what-every.md R开发中编码问题
-
-http://kevinushey.github.io/blog/2018/02/21/string-encoding-and-r/ R开发中编码问题
-
-https://svn.r-project.org/R-dev-web/trunk/WindowsBuilds/winutf8/ucrt3/howto.html R开发中编码问题
-
-https://www.protocols.io/view/large-volume-fungal-genomic-dna-extraction-protoco-qtjdwkn 大量真菌DNA提取流程
-
-https://www.protocols.io/view/small-volume-fungal-genomic-dna-extraction-protoco-3w9gph6 小量真菌DNA提取流程
-
-https://cran.r-project.org/web/packages/targets/vignettes/overview.html targets包助力复现
-
-https://rstudio.github.io/renv/articles/renv.html renv包助力复现
-
-https://github.com/tidymodels/broom R包整理模型参数为表格 用于R包开发基础操作
-
-https://towardsdatascience.com/accelerating-data-exploration-e0047fbd08b6 从数据结果中引导数据分析 数据科学博客
-
-https://share.fireside.fm/episode/87RSVeFz+EyQjGzG8 R周报 信息汇总
-
-https://github.com/jtlandis/ggside R包ggside边缘图 纳入开发
-
-http://www.dovov.com/ggplot2-9.html R边缘图汇总 思路参考
-
-https://www.coder.work/article/6843921 R函数plot_grid图版绘制 文章图版绘制
-
-https://yulab-smu.top/treedata-book/index.html 进化树可视化书 余光创出品
-
-https://www.mpi-bremen.de/en/ARB-7.html 系统发育分析工具arb新版本 微生物组工具
-
-https://us02web.zoom.us/w/84773797721?tk=P9gheiT3HwrvW6oRJtDrML6CYYA24Fz7MdEkpJWdm04.DQMAAAATvOl_WRZiaU1OZmhsUVJWMlFVTzZrczF3Ymd3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_UpcI21kiRwmgFqyq86CLBw 单细胞讲座 讲座培训
-
-https://www.business-science.io/code-tools/2020/06/29/introducing-modeltime.html?utm_content=bufferc72e5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer R时间序列分析 时间序列分析
