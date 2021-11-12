@@ -158,25 +158,25 @@ http://bioinformatics.sdstate.edu/go/#tab-6882-1
 
 http://ge-lab.org/#/edu
 
-https://github.com/SvetlanaUP/A-microbiologist-wants-to-compute
+https://github.com/SvetlanaUP/A-microbiologist-wants-to-compute 生物信息学习资料列表 学习资源列表
 
-http://bioconductor.org/packages/release/bioc/html/epigraHMM.html
+http://bioconductor.org/packages/release/bioc/html/epigraHMM.html R包使用HMM模型研究表观组学数据 参考HMM设计
 
-https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/clustering-algorithms-evaluation-r/tutorial/
+https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/clustering-algorithms-evaluation-r/tutorial/ 聚类结果评估 纳入开发
 
-https://holtzy.github.io/data_analysis_website/
+https://holtzy.github.io/data_analysis_website/ 数据可视化示例 博客范例
 
-https://docs.ropensci.org/spelling/index.html
+https://docs.ropensci.org/spelling/index.html 自动纠正拼写错误的R包 RStudio环境部署
 
-http://www.danieldsjoberg.com/gtsummary/
+http://www.danieldsjoberg.com/gtsummary/ R包gtsummary汇总函数及表格 纳入开发
 
-https://www.youtube.com/watch?v=yS5sCl8RF7s
+https://www.youtube.com/watch?v=yS5sCl8RF7s 深度学习解析DNA二级结构 深度学习应用于生物问题
 
-https://www.newscientist.com/lastword/mg25133583-000-do-magnets-have-any-effects-on-human-cells/?utm_medium=social&utm_campaign=echobox&utm_source=Twitter#Echobox=1635786071-1
+https://www.newscientist.com/lastword/mg25133583-000-do-magnets-have-any-effects-on-human-cells/?utm_medium=social&utm_campaign=echobox&utm_source=Twitter#Echobox=1635786071-1 磁场对人类细胞的影响 细胞趋磁性
 
-https://github.com/davidsjoberg/ggbump
+https://github.com/davidsjoberg/ggbump R包ggbump绘制关联图 地图中绘制关联数据
 
-https://rdrr.io/github/milescsmith/dim.reduction.wrappers/man/pacmap.html
+https://rdrr.io/github/milescsmith/dim.reduction.wrappers/man/pacmap.html 降维分析工具 大数据分析
 
 https://www.youtube.com/playlist?list=PL4ZUlAlk7QidhS8XsVqnwGnJMMEdC5Qlp 高效R编程视频教程
 
