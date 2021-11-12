@@ -232,3 +232,15 @@ https://towardsdatascience.com/accelerating-data-exploration-e0047fbd08b6 从数
 
 https://share.fireside.fm/episode/87RSVeFz+EyQjGzG8 R周报 信息汇总
 
+https://github.com/jtlandis/ggside R包ggside边缘图 纳入开发
+
+http://www.dovov.com/ggplot2-9.html R边缘图汇总 思路参考
+
+https://www.coder.work/article/6843921 R函数plot_grid图版绘制 文章图版绘制
+
+https://yulab-smu.top/treedata-book/index.html 进化树可视化书 余光创出品
+
+https://www.mpi-bremen.de/en/ARB-7.html 系统发育分析工具arb新版本 微生物组工具
+
+https://us02web.zoom.us/w/84773797721?tk=P9gheiT3HwrvW6oRJtDrML6CYYA24Fz7MdEkpJWdm04.DQMAAAATvOl_WRZiaU1OZmhsUVJWMlFVTzZrczF3Ymd3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_UpcI21kiRwmgFqyq86CLBw 单细胞讲座 讲座培训
+
