@@ -262,3 +262,9 @@ http://bioinformatics.sdstate.edu/go/#tab-6882-1
 http://ge-lab.org/#/edu
 
 https://vincentarelbundock.github.io/modelsummary/articles/datasummary.html R包datasummary多维表格 纳入开发
+
+https://oceanexplorer.noaa.gov/news/oer-updates/2021/two-million.html NOAA海洋航次记录 海洋航次
+
+https://github.com/MilesMcBain/datapasta R包datapasta复制表格 R工具
+
+https://app.hopin.com/events/microbiome-vif-n-4/reception 微生物组讲座 讲座
