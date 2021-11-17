@@ -268,3 +268,21 @@ https://oceanexplorer.noaa.gov/news/oer-updates/2021/two-million.html NOAA海洋
 https://github.com/MilesMcBain/datapasta R包datapasta复制表格 R工具
 
 https://app.hopin.com/events/microbiome-vif-n-4/reception 微生物组讲座 讲座
+
+https://www.repeatmasker.org/RepeatMasker/ 基因组重复区域识别工具 基因组分析工具
+
+https://phys.org/news/2021-11-alluring-larvae-competition-fish-species.html 贝类通过鱼类扩步 海洋生物故事
+
+https://oceanexplorer.noaa.gov/okeanos/explorations/ex2107/gallery/gallery.html NOAA海洋航次记录 海洋航次
+
+https://www.cedricscherer.com/ 数据分析博客 博客模板
+
+https://github.com/ropensci/tabulizer R包tabulizer提取PDF中的表格
+
+https://www.youtube.com/watch?v=x6ufCO7H9pY R运算符视频教程 视频教程
+
+https://www.tsbox.help/reference/index.html#section-convert R包tsbox时间序列分析数据格式转换工具 时间序列分析
+
+https://github.com/hughjonesd/santoku R包santoku数据切分工具 纳入开发
+
+https://helixcn.github.io/ 生态学博客 博客模板
