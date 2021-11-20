@@ -286,3 +286,21 @@ https://www.tsbox.help/reference/index.html#section-convert R包tsbox时间序�
 https://github.com/hughjonesd/santoku R包santoku数据切分工具 纳入开发
 
 https://helixcn.github.io/ 生态学博客 博客模板
+
+https://github.com/BioinformaNicks/Bioinformatics-training-collection 生物信息学习资料 学习资源
+
+https://github.com/pedrocoutinhosilva/imola R-shiny前端库 shiny
+
+https://littlebioinformatician.wordpress.com/scripts/repeat-landscape/ RepeatMasker流程及可视化 基因组分析工具
+
+https://github.com/4ureliek/Parsing-RepeatMasker-Outputs RepeatMasker输出文件整合工具 基因组分析工具
+
+sfu.ca/~chenn/bi0410_Chen.pdf RepeatMasker流程 基因组分析工具
+
+https://winvector.github.io/WVPlots/reference/ScatterHist.html R边缘图绘制 R可视化
+
+https://www.jumpingrivers.com/blog/r-graphics-cairo-png-pdf-saving/ R在不同操作系统下的图形输出差异 R可视化
+
+https://kcuilla.github.io/reactablefmtr/articles/sparklines.html R-sparkline包绘制多组长波图 R可视化
+
+https://github.com/chenlianfu/geta/blob/master/bin/geta.pl 基因组重复序列分析流程 基因组分析工具
