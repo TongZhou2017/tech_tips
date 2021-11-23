@@ -304,3 +304,12 @@ https://www.jumpingrivers.com/blog/r-graphics-cairo-png-pdf-saving/ R在不同�
 https://kcuilla.github.io/reactablefmtr/articles/sparklines.html R-sparkline包绘制多组长波图 R可视化
 
 https://github.com/chenlianfu/geta/blob/master/bin/geta.pl 基因组重复序列分析流程 基因组分析工具
+
+https://statistik-dresden.de/archives/17487 R进度条 R基础
+
+https://microbiome.github.io/tutorials/ R包微生物多样性分析工具 微生物多样性分析工具
+
+https://github.com/hrbrmstr/waffle/blob/master/README.md R包华夫饼图绘制工具 R可视化
+
+https://www.youtube.com/watch?v=oSjy6Q-_Ll8 热液视频 海洋学基础视频
+
