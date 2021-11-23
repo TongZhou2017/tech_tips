@@ -313,3 +313,4 @@ https://github.com/hrbrmstr/waffle/blob/master/README.md R包华夫饼图绘制�
 
 https://www.youtube.com/watch?v=oSjy6Q-_Ll8 热液视频 海洋学基础视频
 
+https://baderlab.github.io/CCInx/vignettes/CCInxUsage.html R包CCInx单细胞细胞类型之间相互作用分析工具 单细胞分析工具
