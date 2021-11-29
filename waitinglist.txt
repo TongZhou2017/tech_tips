@@ -329,3 +329,4 @@ https://github.com/Midnighter/tyche 随机抽reads工具 序列处理工具
 
 http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/118-principal-component-analysis-in-r-prcomp-vs-princomp/ R中pca分析 统计分析基础
 
+https://dataguide.nlm.nih.gov/eutilities/utilities.html#efetch pubmed命令行工具 文献管理工具
