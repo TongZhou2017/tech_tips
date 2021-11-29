@@ -314,3 +314,18 @@ https://github.com/hrbrmstr/waffle/blob/master/README.md R包华夫饼图绘制�
 https://www.youtube.com/watch?v=oSjy6Q-_Ll8 热液视频 海洋学基础视频
 
 https://baderlab.github.io/CCInx/vignettes/CCInxUsage.html R包CCInx单细胞细胞类型之间相互作用分析工具 单细胞分析工具
+
+https://swsoyee.vercel.app/2021/02/writing-r-packages-a-modern-workflow-for-beginners/ R包开发流程 R包开发基础
+
+https://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html Github中Action使用 GitHub基础
+
+https://bookdown.org/xiao/RAnalysisBook/r-markdown.html#section-5.4.22 Rmd教程 rmd基础
+
+https://stackoverflow.com/questions/13613270/how-to-fix-the-error-in-r-of-no-lines-available-in-input R赋值报错 R基础
+
+https://github.com/adw96/breakaway R包breakaway计算群落多样性指标 分子生态分析工具
+
+https://github.com/Midnighter/tyche 随机抽reads工具 序列处理工具
+
+http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/118-principal-component-analysis-in-r-prcomp-vs-princomp/ R中pca分析 统计分析基础
+
