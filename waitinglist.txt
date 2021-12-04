@@ -330,3 +330,24 @@ https://github.com/Midnighter/tyche 随机抽reads工具 序列处理工具
 http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/118-principal-component-analysis-in-r-prcomp-vs-princomp/ R中pca分析 统计分析基础
 
 https://dataguide.nlm.nih.gov/eutilities/utilities.html#efetch pubmed命令行工具 文献管理工具
+
+https://seananderson.ca/2013/10/19/reshape/ reshape2包使用教程 R基础 相关链接 https://stackoverflow.com/questions/5890584/how-to-reshape-data-from-long-to-wide-format
+
+https://github.com/microbiota/amplicon amplicon包微生物多样性数据分析可视化工具 微生物多样性分析工具
+
+https://stackoverflow.com/questions/34164687/r-how-to-change-the-color-scheme-14-colors-needed-in-ggplot 配色扩充 R基础
+
+https://github.com/jokergoo/circlize circlize包绘制弦图 R基础 相关链接 https://jokergoo.github.io/circlize_book/book/the-chorddiagram-function.html
+
+https://www.datanovia.com/en/blog/venn-diagram-with-r-or-rstudio-a-million-ways/ R绘制venn图工具 R基础
+
+https://ourcodingclub.github.io/tutorials/dataviz-beautification-synthesis/ R数据可视化优化过程 R基础
+
+https://github.com/nf-core/nanoseq Nanopore数据拆分质控比对工具 Nanopore数据分析工具
+
+https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab806/6448211#.YalFGsDRsDQ.twitter ComplexHeatmap包绘制复杂热图 R基础
+
+https://stackoverflow.com/questions/30765338/how-to-make-the-horizontal-scrollbar-visible-in-dtdatatable Rmd中过宽表格加滚轮 R基础
+
+http://web.mit.edu/~r/current/arch/i386_linux26/lib/R/library/Biostrings/html/pid.html Biostring计算identity 生物信息分析基础
+
