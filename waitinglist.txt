@@ -426,3 +426,19 @@ https://github.com/Saskia-Oosterbroek/decona
 https://pubmed.ncbi.nlm.nih.gov/33590697/
 
 https://stackoverflow.com/questions/38514988/concatenate-strings-by-group-with-dplyr
+
+http://enseqlopedia.com/2021/12/illumina-finally-getting-ngs-competition/?utm_campaign=coregenomicstwitter&utm_medium=twitter&utm_source=twitter 全球NGS测序市场竞争 测序行业动向
+
+https://bookdown.org/egarpor/NP-UC3M/ 非参数统计笔记 统计学基础
+
+https://microsud.github.io/chkMocks/articles/aIntroduction.html 模拟群落阳性对照分析工具 微生物多样性分析工具
+
+https://github.com/Saskia-Oosterbroek/decona Nanopore扩增子分析工具 三代扩增子分析工具
+
+https://www.scientificamerican.com/article/the-ups-and-downs-of-a-great-vertical-migration/ 海洋生物垂直分布 海洋生物故事
+
+https://stackoverflow.com/questions/61365449/adding-more-nodes-to-the-center-of-star-layout-igraph 双中心网络图layout R可视化网络图
+
+https://www.codenong.com/25961897/ R生成交替向量 R数据分析基础
+
+https://github.com/xiangpin/ggstar R点图使用五角星 R数据可视化基础
