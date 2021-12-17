@@ -442,3 +442,13 @@ https://stackoverflow.com/questions/61365449/adding-more-nodes-to-the-center-of-
 https://www.codenong.com/25961897/ R生成交替向量 R数据分析基础
 
 https://github.com/xiangpin/ggstar R点图使用五角星 R数据可视化基础
+
+https://cloud.tencent.com/developer/article/1749545 Sloan的随机性模型方法 微生物多样性分析方法
+
+https://github.com/wwood/CoverM 宏基因组覆盖度计算工具 宏基因组分析工具
+
+https://cmlmagneville.github.io/mFD/ 微生物功能多样性分析工具 微生物功能多样性分析方法
+
+https://theconversation.com/our-iconic-giant-clams-face-new-threats-from-warmer-waters-and-acidic-oceans-lets-buy-them-time-172607 车磲共生藻类 海洋生物故事
+
+https://bookdown.org/ndphillips/YaRrr/ R语言学习教程 R基础教程
