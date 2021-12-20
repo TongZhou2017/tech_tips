@@ -452,3 +452,19 @@ https://cmlmagneville.github.io/mFD/ 微生物功能多样性分析工具 微生
 https://theconversation.com/our-iconic-giant-clams-face-new-threats-from-warmer-waters-and-acidic-oceans-lets-buy-them-time-172607 车磲共生藻类 海洋生物故事
 
 https://bookdown.org/ndphillips/YaRrr/ R语言学习教程 R基础教程
+
+https://phys.org/news/2021-12-marine-heatwaves-decimate-oldest-youngest.html 海洋热浪对老新珊瑚具有毁灭影响 海洋生物故事
+
+https://github.com/FredHutch/octapus 微生物基因组分析工具 基因组分析工具
+
+https://github.com/asteves/tayloRswift 配色R包 R可视化
+
+https://github.com/EmilHvitfeldt/paletteer 配色R包 R可视化
+
+https://cran.r-project.org/web/packages/chameleon/vignettes/examples.html 配色R包 R可视化
+
+https://github.com/caleblareau/BuenColors 配色R包 R可视化
+
+https://kcuilla.github.io/reactablefmtr/articles/color_scales.html 按列交互式排序图 R可视化
+
+https://coolbutuseless.github.io/2021/12/02/introducing-svgparser-an-svg-renderer-in-plain-r/ 在R中使用矢量图 R可视化
