@@ -485,3 +485,55 @@ https://felixfan.github.io/bedtools/ bed格式解读 bed格式
 
 https://github.com/biocore/deblur/issues/205 厉神关于ASV方法在deblur中具有比dada2更均匀的探讨 deblur问题
 
+https://bioinf.shenwei.me/taxonkit/tutorial/#making-nr-blastdb-for-specific-taxids taxonkit物种注释工具 物种注释
+
+https://bedtools.readthedocs.io/en/latest/ bedtools 基因区域提取工具
+
+https://github.com/tseemann/barrnap/blob/master/bin/barrnap barrnap 基因提取工具
+
+https://www.nicholas-ollberding.com/post/denoising-amplicon-sequence-variants-using-dada2-deblur-and-unoise3-with-qiime2/ ASV比OTU讨论 ASV比OTU
+
+https://github.com/benjjneb/dada2/issues/947 dada2中对post-clustring的讨论 post-clustring
+
+https://github.com/benjjneb/dada2/issues/1328 dada2中对pacbio数据分析的讨论 dada2pacbio https://github.com/benjjneb/dada2/issues/374 https://github.com/benjjneb/dada2/issues/1054
+
+https://github.com/benjjneb/dada2/issues/492 dada2对功能基因的讨论 dada2function
+
+https://github.com/benjjneb/dada2/issues/386 dada2对代表序列的讨论 dada2representseq
+
+https://github.com/benjjneb/dada2/issues/1445 dada2对三代高嵌合体的讨论 dada2pacbio
+
+https://github.com/benjjneb/dada2/issues/327 dada2对ITS序列预处理的讨论 dada2ITS https://github.com/benjjneb/dada2/issues/671
+
+https://github.com/benjjneb/dada2/issues/900 dada2嵌合体去除问题的讨论 dada2chinmeras
+
+https://github.com/benjjneb/dada2/issues/795 dada2对SEseq的讨论 dada2singleend
+
+https://github.com/benjjneb/dada2/issues/1275 dada2对高估问题的讨论 dada2highnumber
+
+https://github.com/AstrobioMike/AstrobioMike.github.io/issues/24 对于ASV后聚类的讨论 post-clustring
+
+https://astrobiomike.github.io/amplicon/ 扩增子分析流程 扩增子分析
+
+https://github.com/tobiasgf/lulu lulu post-clustring
+
+https://static-content.springer.com/esm/art%3A10.1007%2Fs13225-018-0401-0/MediaObjects/13225_2018_401_MOESM3_ESM.pl 二步系统发育分析工具 二步法
+
+https://github.com/smirarab/sepp/blob/master/tutorial/sepp-tutorial.md 短序列map系统发育树工具 短序列系统发育分析
+
+https://community.rstudio.com/t/how-to-solve-no-visible-binding-for-global-variable-note/28887 R包开发dplyr和ggplot的变量未声明报错解决办法 R包开发
+
+https://www.researchgate.net/post/How_can_I_extract_bacterial_complete_16S_rRNA_gene_sequence_from_the_WGS_Whole_genome_sequence?__cf_chl_managed_tk__=20vGwRhWHKk9nblKAMjdAnE9xDVYjvpMynpioS4OZ8g-1641207600-0-gaNycGzND6U 序列识别提取工具 序列识别
+
+https://scholar.google.com/citations?hl=en&user=t5FZIDMAAAAJ&view_op=list_works&alert_preview_top_rm=2&sortby=pubdate 基于系统发育关系的post-clustring观点支持者 pOTU
+
+https://www.zymoresearch.com/blogs/blog/microbiome-informatics-otu-vs-asv ASV比OTU博客 ASV比OTU
+
+https://jokergoo.github.io/ComplexHeatmap-reference/book/a-single-heatmap.html#gaps-between-slices 复杂热图R包 R可视化
+
+https://www.rstudio.com/blog/4-tips-to-make-your-shiny-dashboard-faster/ rshiny加速策略 shiny
+
+https://www.andrewheiss.com/blog/2021/12/18/bayesian-propensity-scores-weights/ 贝叶斯博客 贝叶斯
+
+https://github.com/benjjneb/dada2/issues/62 dada2对代表序列的讨论 dada2representseq
+
