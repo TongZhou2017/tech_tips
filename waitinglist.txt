@@ -468,3 +468,20 @@ https://github.com/caleblareau/BuenColors 配色R包 R可视化
 https://kcuilla.github.io/reactablefmtr/articles/color_scales.html 按列交互式排序图 R可视化
 
 https://coolbutuseless.github.io/2021/12/02/introducing-svgparser-an-svg-renderer-in-plain-r/ 在R中使用矢量图 R可视化
+
+https://beast.community/ BEAST计算工具 BEAST计算系统发育分析
+
+https://dplyr.tidyverse.org/reference/count.html R包dplyr的count计算 R语言
+
+https://www.biostars.org/p/98885/ fai格式 fai格式
+
+https://github.com/voutcn/megahit 二代宏基因组组装工具 宏基因组组装
+
+https://github.com/fenderglass/Flye 三代宏基因组组装工具 宏基因组组装
+
+https://www.jianshu.com/p/11b8804e570d 根据bed格式文件提取fasta序列工具 bed文件处理工具
+
+https://felixfan.github.io/bedtools/ bed格式解读 bed格式
+
+https://github.com/biocore/deblur/issues/205 厉神关于ASV方法在deblur中具有比dada2更均匀的探讨 deblur问题
+
