@@ -537,3 +537,22 @@ https://www.andrewheiss.com/blog/2021/12/18/bayesian-propensity-scores-weights/ 
 
 https://github.com/benjjneb/dada2/issues/62 dada2对代表序列的讨论 dada2representseq
 
+https://rpkgs.datanovia.com/ggpubr/ 已发表数据可视化方案 R可视化
+
+https://stackoverflow.com/questions/15874214/piecewise-function-fitting-with-nls-in-r nls拟合问题 拟合 https://rdrr.io/r/stats/SSasymp.html https://books.google.com.tw/books?id=YI0kT8cuiVUC&pg=PA284&lpg=PA284&dq=stats::nls+singular+gradient&source=bl&ots=bpeB40petu&sig=ACfU3U35PdjTO6q3Zq1smP53gms5rbCgHg&hl=en&sa=X&ved=2ahUKEwjB6sTAipr1AhWcw4sBHVFDC90Q6AF6BAgjEAM#v=onepage&q=stats%3A%3Anls%20singular%20gradient&f=false 
+
+https://pavelmatos.files.wordpress.com/2019/10/comparativephylogenetics_r_tutorial-1.pdf 系统发育比较分析 系统发育比较 https://pedrohbraga.github.io/PhyloCompMethods-in-R-workshop/PhyloCompMethodsMaterial.html https://press.princeton.edu/books/ebook/9780691219042/phylogenetic-comparative-methods-in-r  https://pedrohbraga.github.io/PhyloCompMethods-in-R-workshop/PhyloCompMethodsMaterial.html
+
+https://cbirt.net/2022/01/02/spiralize-r-package-to-visualize-data-on-spirals/ 长数据可视化 R可视化
+
+https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html 统计学习书 统计学习
+
+https://github.com/ianmoran11/mmtable2 表格动态可视化 R可视化
+
+https://github.com/nxiao6gt/iDIRECT 共现网络分析方法 网络分析
+
+https://blog.csdn.net/qq_16564093/article/details/80698479 色差计算 颜色
+
+https://stackoverflow.com/questions/15282580/how-to-generate-a-number-of-most-distinctive-colors-in-r 大量颜色生成 颜色
+
+https://forum.qiime2.org/t/clustering-denovo-specifying-input-sequence-processing/16306/6 qiime对于ASV后聚类的讨论 post-clustring
