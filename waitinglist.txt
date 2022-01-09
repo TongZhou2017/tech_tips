@@ -556,3 +556,17 @@ https://blog.csdn.net/qq_16564093/article/details/80698479 色差计算 颜色
 https://stackoverflow.com/questions/15282580/how-to-generate-a-number-of-most-distinctive-colors-in-r 大量颜色生成 颜色
 
 https://forum.qiime2.org/t/clustering-denovo-specifying-input-sequence-processing/16306/6 qiime对于ASV后聚类的讨论 post-clustring
+
+https://livefreeordichotomize.com/2017/08/08/how-to-make-an-rmarkdown-website/ 通过Rmd构建网站 R网站
+
+https://bookdown.org/yihui/blogdown/ 通过Rmd构建网站 R网站
+
+https://github.com/vinta/awesome-python python学习列表 python基础
+
+https://greenteapress.com/thinkpython2/html/index.html python入门书 python基础
+
+https://towardsdatascience.com/a-practical-guide-to-bootstrap-with-r-examples-bd975ec6dcea R中使用bootstrap bootstrap
+
+https://www.labome.com/method/PCR-Protocol-and-Troubleshooting.html PCR技术细节 PCR基础
+
+https://www.ufz.de/index.php?en=34206 德国海洋微生物研究中心 机构课题组
