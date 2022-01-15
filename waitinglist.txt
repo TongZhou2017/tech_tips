@@ -570,3 +570,31 @@ https://towardsdatascience.com/a-practical-guide-to-bootstrap-with-r-examples-bd
 https://www.labome.com/method/PCR-Protocol-and-Troubleshooting.html PCR技术细节 PCR基础
 
 https://www.ufz.de/index.php?en=34206 德国海洋微生物研究中心 机构课题组
+
+https://github.com/microDM/MicFunPred 微生物功能预测工具 微生物功能分析
+
+https://datascience.stackexchange.com/questions/16904/gbm-vs-xgboost-key-differences GBM与XGBOOST比较 数据科学基础
+
+https://cran.r-project.org/web/packages/chromoMap/vignettes/chromoMap.html 染色体可视化R包 R可视化
+
+https://www.biostars.org/p/266507/ combaat与limma比较 批次效应矫正
+
+http://www.ebiotrade.com/custom/sbs/170527/index.htm PNA简介 PNA
+
+https://bioinformatics.sph.harvard.edu/training 哈佛生信免费课 生信课
+
+https://www.codecool.ir/extra/202033192035606Bioinformatics%20Data%20Skills.pdf 生物信息入门实用书 生信书
+
+https://community.rstudio.com/t/using-mutate-in-a-function-with-the-new-colname-as-an-argument/10399/2 函数中用变量内容作为赋值对象的新变量名 R基础
+
+https://stackoverflow.com/questions/21532998/error-when-using-combat combat处理低波动数据的报错 批次效应矫正
+
+https://www.youtube.com/watch?v=RDZUdRSDOok DBSCAN教程视频 聚类
+
+https://sciencificity-blog.netlify.app/posts/2020-12-12-using-the-tidyverse-with-databases/ R处理数据库 R数据库
+
+https://www.datasciencecentral.com/profiles/blogs/logistic-regression-as-a-neural-network?utm_content=193693952&utm_medium=social&utm_source=twitter&hss_channel=tw-1318985240 使用神经网络进行回归分析 神经网络
+
+https://towardsdatascience.com/pca-beyond-the-dimensionality-reduction-e352eb0bdf52 PCA归纳变量 PCA
+
+https://yuzar-blog.netlify.app/posts/2021-12-29-correlationinr/ 四种相关分析比较 相关分析
