@@ -598,3 +598,48 @@ https://www.datasciencecentral.com/profiles/blogs/logistic-regression-as-a-neura
 https://towardsdatascience.com/pca-beyond-the-dimensionality-reduction-e352eb0bdf52 PCA归纳变量 PCA
 
 https://yuzar-blog.netlify.app/posts/2021-12-29-correlationinr/ 四种相关分析比较 相关分析
+
+https://www.archrproject.com/bookdown/batch-effect-correction-wtih-harmony.html 批次效应矫正工具harmony 批次效应 https://portals.broadinstitute.org/harmony/articles/quickstart.html
+
+https://rdrr.io/github/LTLA/batchelor/man/fastMNN.html 批次效应矫正工具MNN 批次效应
+
+https://github.com/jamesotto852/ggdensity 密度可视化 R可视化
+
+https://github.com/DominikBuchner/apscale 扩增子分析流程 扩增子
+
+https://machinelearningmastery.com/how-to-perform-object-detection-in-photographs-with-mask-r-cnn-in-keras/?utm_content=194617721&utm_medium=social&utm_source=twitter&hss_channel=tw-1318985240 图像识别 机器学习
+
+https://gist.github.com/slowkow/faf168c0b8dedbf337f424e07091437a umap参数 umap
+
+https://en.wikipedia.org/wiki/Precision_and_recall#Definition_(classification_context) 模型评估计算方法 模型 https://neptune.ai/blog/evaluation-metrics-binary-classification
+
+https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q 科普视频频道 科普
+
+https://github.com/chuiqin/irGSEA 单细胞富集分析流程 单细胞富集分析
+
+https://github.com/SilviaRaineri/Microbiome_PRJEB40767 微生物组分析实例 微生物组分析
+
+http://earlh.com/blog/2009/06/30/eval-in-r-running-code-from-a-string/ R动态编程 R基础
+
+https://www.visualcapitalist.com/all-the-biomass-of-earth-in-one-graphic/ 可视化网站 可视化
+
+https://zhuanlan.zhihu.com/p/58082815 PCR添加物质及其影响 PCR
+
+https://yonicd.github.io/carbonate/index.html 推特盛行代码截图R包 R可视化
+
+https://dafriedman97.github.io/mlbook/content/introduction.html 机器学习教程 机器学习
+
+https://probability4datascience.com/ 统计学习教程 统计学习
+
+https://github.com/willgearty/deeptime 远古时间可视化 R可视化
+
+https://github.com/nearinj/Comparison_of_DA_microbiome_methods 多种微生物群落结构差异分析方法 差异分析
+
+https://pkg.mitchelloharawild.com/ggquiver/reference/geom_quiver.html 箭头可视化 R可视化
+
+https://github.com/lambdamoses/umap_globe umap方法比较 umap
+
+https://statisticsglobe.com/draw-ggplot2-barplot-round-corners-r ggplot绘制圆转角图 R可视化
+
+https://github.com/mgoeker/table2itol/blob/master/table2itol.R iTOL管道R工具 https://rdrr.io/github/leylabmpi/LeyLabRMisc/src/R/itol.R
+
