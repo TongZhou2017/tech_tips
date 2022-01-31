@@ -643,3 +643,16 @@ https://statisticsglobe.com/draw-ggplot2-barplot-round-corners-r ggplot绘制圆
 
 https://github.com/mgoeker/table2itol/blob/master/table2itol.R iTOL管道R工具 https://rdrr.io/github/leylabmpi/LeyLabRMisc/src/R/itol.R
 
+https://cran.r-project.org/web/packages/janitor/vignettes/tabyls.html count函数 R
+
+https://slowkow.com/notes/pca-benchmark/ 单细胞PCA方法比较 PCA
+
+https://www.phenopype.org/gallery/ 生物图像识别工具 图像识别
+
+https://hopin.com/events/microbiome-vif-n-6 周期性公开课 讲座
+
+https://academic.oup.com/bioinformaticsadvances/issue/1/1?login=false#__prclt=en0LS8NB 生物信息新期刊 期刊
+
+https://duchesnay.github.io/pystatsml/ python统计和机器学习 机器学习
+
+https://www.mbl.edu/education/courses/molecular-mycology/ 真菌发病机制 真菌
