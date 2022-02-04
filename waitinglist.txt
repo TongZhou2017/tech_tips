@@ -656,3 +656,23 @@ https://academic.oup.com/bioinformaticsadvances/issue/1/1?login=false#__prclt=en
 https://duchesnay.github.io/pystatsml/ python统计和机器学习 机器学习
 
 https://www.mbl.edu/education/courses/molecular-mycology/ 真菌发病机制 真菌
+
+https://github.com/BlakeRMills/TidyTuesday/blob/main/2022/Dog%20Breeds%20(1%20Feb%202022)/Dogs%20(1%20Feb%202022).R 玫瑰凤图 R可视化
+
+https://hosting.analythium.io/ Rshiny博客 Rshiny
+
+https://github.com/chanzuckerberg/shasta Nanopore组装工具 Nanopore
+
+https://education.rstudio.com/blog/2020/09/delivering-learnr-tutorials-in-a-package/ 使用learnr学习R R教程
+
+http://www.r-exams.org/ R学习测试网站 R学习
+
+https://github.com/marneypratt/r4bio 生物学R语言学习工具 R学习
+
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll 在Github建站 GitHub
+
+https://classroom.github.com/ GitHub课堂 GitHub
+
+https://www.rdocumentation.org/packages/seqinr/versions/4.2-8/topics/write.fasta map函数使用 R基础
+
+https://www.youtube.com/watch?v=zaoSeyHARGM 云端R配置git R基础
