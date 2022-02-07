@@ -676,3 +676,32 @@ https://classroom.github.com/ GitHub课堂 GitHub
 https://www.rdocumentation.org/packages/seqinr/versions/4.2-8/topics/write.fasta map函数使用 R基础
 
 https://www.youtube.com/watch?v=zaoSeyHARGM 云端R配置git R基础
+
+https://github.com/selfteaching/the-craft-of-selfteaching/issues/67 git协作冲突 git
+
+https://somethingaboutmaps.wordpress.com/2022/01/13/towards-less-blender-y-relief/ blender制作高精度地图 地图
+
+https://www.datasciencecentral.com/textbook-probability-course-harvard-university/ 概率论电子书 统计学
+
+https://sdesabbata.github.io/r-for-geographic-data-science/index.html 地理学数据科学R语言 R基础
+
+https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html 数据科学100本电子书 数据科学
+
+https://www.youtube.com/watch?v=Ted0xbQp6iY Rmd教程 R视频教程
+
+https://www.rforecology.com/post/introduction-to-missing-data-in-r/ R中NA的处理 R基础
+
+https://www.rforecology.com/ R生态学博客 博客
+
+http://juliaplots.org/AlgebraOfGraphics.jl/dev/philosophy/ Julia数据可视化 Julia https://github.com/JuliaPlots/AlgebraOfGraphics.jl/
+
+https://github.com/cschin/peregrine-2021 基因组组装工具 基因组
+
+https://theaisummer.com/deep-learning-books-2022/ 机器学习书 机器学习
+
+https://public.tableau.com/app/profile/cj.mayes/viz/TheArtofConversation-IronViz2022/DiaryOfACEO 数据可视化样例 数据可视化
+
+https://oscarbaruffa.com/bbofr_2022-02-06/ 11本新R书 R基础
+
+https://www.bigbookofr.com/index.html R语言大杂烩 R基础
+
