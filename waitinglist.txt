@@ -705,3 +705,13 @@ https://oscarbaruffa.com/bbofr_2022-02-06/ 11本新R书 R基础
 
 https://www.bigbookofr.com/index.html R语言大杂烩 R基础
 
+https://statisticsglobe.com/r-programming-language R语言学习教程 R教程
+
+https://www.elementbiosciences.com/news/element-biosciences-closes-acquisition-of-loop-genomics 新的长读长测序公司 长读长
+
+https://www.dataquest.io/blog/rstudio-tips-tricks-shortcuts/ Rstudio小技巧 Rstudio
+
+https://seananderson.ca/2013/10/19/reshape/ R长宽表格转换博客 博客
+
+https://stackoverflow.com/questions/29599843/reshaping-data-table-to-make-column-names-into-row-names R长宽表转换行名问题 R基础
+
