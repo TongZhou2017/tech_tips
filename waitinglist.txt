@@ -715,3 +715,65 @@ https://seananderson.ca/2013/10/19/reshape/ R长宽表格转换博客 博客
 
 https://stackoverflow.com/questions/29599843/reshaping-data-table-to-make-column-names-into-row-names R长宽表转换行名问题 R基础
 
+https://rdrr.io/cran/abdiv/ 多样性指数计算R包 多样性指数 https://github.com/kylebittinger/abdiv
+
+https://stackoverflow.com/questions/35953394/calculating-length-of-95-ci-using-dplyr 用dplyr计算95%置信区间 R统计
+
+https://stackoverflow.com/questions/23188900/display-print-all-rows-of-a-tibble-tbl-df tibble全显示 R基础
+
+https://cran.r-project.org/web/packages/vegan/vignettes/diversity-vegan.pdf vegan多样性计算 多样性指数
+
+https://www.indeed.com/job/bioinformatics-computational-genetics-postdoctoral-postdoc-a9e13e0cde87f716 波士顿生信岗 求职
+
+https://www.indeed.com/job/bioinformatics-single-cell-spatial-transcriptomics-postdoctoralpostdoc-597fbb1fa9c4994f 波士顿单细胞空转岗 求职
+
+https://lgellis.github.io/pelotonR/ Peloton数据接口R包 Rapi https://www.littlemissdata.com/blog/pelotonr 博客
+
+https://compgenomr.github.io/book/ R基因组学 电子书
+
+https://www.youtube.com/c/LanaCaldarevic/playlists Python生物信息学视频教程 Python教程
+
+https://www.youtube.com/watch?v=B2djwE5-SG8 深海鱼类eDNA视频 eDNA
+
+https://speechify-aa30cc-7a2e69fca0e83e8dcaae03.webflow.io/?utm_source=Youtube&utm_medium=programmatic&utm_campaign=Group+1&utm_id=Pmax&gclid=Cj0KCQiAmKiQBhClARIsAKtSj-mZ4UX6W_Ri5zE8efUXcO4CsjaH-1Wzzoh4-AD04SmVRLWo9JVRHKkaAlVREALw_wcB 谷歌浏览器朗读插件 浏览器插件
+
+https://bookdown.org/ybrandvain/Applied_Biostats_2022/ R生物统计学 电子书
+
+https://www.uwa.edu.au/Projects/Breaking-the-bottleneck 珊瑚礁生态博士职位 求职
+
+https://prd-sccd01-international.neb.com/-/media/nebus/files/application-notes/technote_mvs_analysis_of_nucleic_acid_concentration_and_purity.pdf?rev=c24cea043416420d84fb6bf7b554dbbb 核酸浓度测定手册 分子实验
+
+https://technonguide.com/aws-vs-azure-vs-google-cloud/ 云平台比较 云计算
+
+https://m.beyotime.com/support/T0705.htm 科研服务外显子测序报价 报价
+
+https://www.normalesup.org/~scornet/paper/test.pdf R随机森林计算手册 机器学习
+
+https://www.cedricscherer.com/2021/06/06/visualizing-distributions-with-raincloud-plots-and-how-to-create-them-with-ggplot2/#rain ggplot实现云雨图 R可视化
+
+https://www.r-bloggers.com/2017/06/add-p-values-and-significance-levels-to-ggplots/ ggplot显著性标注 R可视化
+
+https://github.com/karthik/wesanderson R配色 配色
+
+https://color.adobe.com/create/color-accessibility 配色在线工具 配色
+
+https://github.com/SunXQlab/scMLnet 单细胞数据的细胞通讯调控网络分析R包 细胞通讯分析
+
+https://leidosbiomed.csod.com/ux/ats/careersite/4/home/requisition/2039?c=leidosbiomed&source=careerarc GWAS职位 求职
+
+https://www.r-bloggers.com/2022/02/create-your-own-data-visualization-gallery/ 创建自定义R图库 R网站搭建
+
+https://www.kdnuggets.com/2020/03/24-best-free-books-understand-machine-learning.html# 机器学习24本电子书 电子书
+
+https://cbirt.net/2022/02/14/predicting-cell-fates-and-genetic-perturbations-with-a-new-computational-tool-dynamo/ 细胞命运分析工具 单细胞分析工具
+
+https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view R概率论 电子书 https://www.datasciencecentral.com/textbook-probability-course-harvard-university/
+
+https://rstudio.github.io/DT/options.html Rmd表格控制 Rmd
+
+https://rfunctions.blogspot.com/2012/07/standardized-effect-size-nearest.html 谱系多样性计算MPD 多样性指数
+
+https://shanghai.hosting.nyu.edu/data/r/case-4-database-management-shiny.html Rshiny创建数据库 shiny
+
+https://drive.google.com/drive/folders/1-bidoXYqEha5cqW_Q5FPbkdLYd4TKv1M 咖喱R课材料 R教程
+
