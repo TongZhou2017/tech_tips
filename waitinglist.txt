@@ -777,3 +777,146 @@ https://shanghai.hosting.nyu.edu/data/r/case-4-database-management-shiny.html Rs
 
 https://drive.google.com/drive/folders/1-bidoXYqEha5cqW_Q5FPbkdLYd4TKv1M 咖喱R课材料 R教程
 
+https://www.oreilly.com/library/view/python-data-science/9781491912126/ python数据科学 电子书
+
+https://github.com/claragranell/ggplot2/blob/main/ggplot_theme_system_cheatsheet.pdf ggplot小抄 R可视化
+
+https://gist.github.com/vals/c57a9c974519c715a2f214a25963e62e 单细胞转录组学分析scVI流程 单细胞转录组
+
+https://jless.io/ JSON命令行查看工具 json
+
+https://hosting.analythium.io/how-many-shiny-apps-can-you-host-for-free/?utm_source=as-auto&utm_medium=web&utm_campaign=twitter shiny免费部署资源 shiny
+
+https://m-clark.github.io/bayesian-basics/ R语言贝叶斯基础 统计学
+
+https://www.rstudio.com/blog/2022-internships/ RStudio暑期实习生 工作
+
+http://www.drive5.com/usearch/manual/chimeras.html 嵌合体产生原因 嵌合体
+
+https://www.youtube.com/channel/UCiqOwwdgfak4GclHh5_CSpQ/playlists 哈佛刘小乐生信课 视频教程
+
+https://www.icourse163.org/learn/ZJU-1003315004?tid=1467004484#/learn/announce 浙大矿爷微积分 视频教程
+
+https://www.youtube.com/watch?v=cclUd_HoRlo&list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN RichardMcElreath统计学 视频教程
+
+https://www.icourse163.org/learn/TONGJI-481002?tid=1465477482#/learn/announce 概率论与数理统计 视频教程
+
+https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv 耶鲁李飞飞/JustinJohnson机器学习 视频教程
+
+https://www.bilibili.com/video/BV1NW41177q4?spm_id_from=333.999.0.0 斯坦福TrevorHastie/RobertTibshirani统计学习 视频教程
+
+https://github.com/ytdl-org/youtube-dl youtube命令行下载工具 日常工具
+
+https://cran.r-project.org/web/packages/rerddapXtracto/vignettes/UsingrerddapXtracto.html 海区密度图 R可视化
+
+https://www.youtube.com/watch?v=0VObf2rMrI8 物种分部模型分析R 视频教程
+
+http://www.juncao.org/index.php?p=news_show&lanmu=14&c_pid=&c_id=19&id=161 菌草研究团队 课题组
+
+http://www.biomarker.com.cn/technology-services/medicine-hic HiC介绍 HiC
+
+https://bookdown.org/ybrandvain/Applied_Biostats_2022/ 生物统计学电子书 R统计学
+
+https://gitee.com/511311/iScript/blob/master/pan.baidu.com.py 百度网盘命令行工具 百度网盘
+
+https://github.com/ly0/baidupcsapi 百度网盘命令行工具 百度网盘
+
+https://zhuanlan.zhihu.com/p/111624926 百度网盘命令行工具 百度网盘
+
+https://github.com/AlphaCat00/PyBaiduPan  百度网盘命令行工具 百度网盘
+
+http://vis.nucleome.org/v1/main.html 基因组多维度分析工具 交互式分析工具
+
+https://item.jd.com/11554195.html#none 空间分析生态学书籍 生态学
+
+https://item.jd.com/1027463938.html 生态统计书籍 生态学
+
+https://item.jd.com/12866862.html 数量生态学书籍 生态学
+
+https://item.jd.com/11953887.html 生态学导论 生态学
+
+https://compbio.engr.uconn.edu/software/RANGER-DTL/ 基因家族分析工具 基因家族
+
+https://songweizhi.github.io/2_publication.html 宋维志 博客
+
+https://github.com/trinker/sentimentr 语义分析R包 语义分析 https://www.r-bloggers.com/2020/04/sentiment-analysis-in-r-with-sentimentr-that-handles-negation-valence-shifters/
+
+https://cran.r-project.org/web/packages/googleLanguageR/vignettes/speech.html 语音转文字R包 音频转文字工具
+
+https://www.jianshu.com/p/b400dc7c5eea 转录组变异分析流程 变异分析
+
+https://lindeloev.github.io/tests-as-linear/ R基础统计检验模型 R统计学
+
+https://blog.csdn.net/lww1993/article/details/116519246 shiny学习笔记 shiny
+
+https://github.com/englianhu/data-analysis/blob/master/reference/Shiny%E5%AE%98%E6%96%B9%E6%95%99%E7%A8%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf shiny学习中文教程 shiny
+
+https://www.jieandze1314.com/post/cnposts/213/ shiny学习笔记 shiny
+
+https://github.com/brshallo/funspotr/ R包提取文件中使用的R包及函数 R程序分析
+
+https://john-quensen.com/tutorials/procrustes-analysis/ 普氏分析介绍博客 统计学
+
+https://rpubs.com/mengxu/procrustes_analysis 普氏分析介绍 统计学
+
+https://www.molecularecologist.com/2015/04/23/procrustes-analyses-in-r/ R语言普氏分析 统计学
+
+https://mb3is.megx.net/gustame/other-methods/procrustes-analysis 普氏分析介绍 统计学
+
+https://search.r-project.org/CRAN/refmans/geomorph/html/gpagen.html 普氏分析R函数 统计学
+
+https://search.r-project.org/CRAN/refmans/shapes/html/procGPA.html 普氏分析R函数 统计学
+
+https://rdrr.io/cran/FactoMineR/man/gpa.html 普氏分析R函数 统计学
+
+https://en.wikipedia.org/wiki/Procrustes_analysis 普氏分析wiki百科 统计学
+
+https://stats.stackexchange.com/questions/519326/interpreting-procrustes-analysis 普氏分析R问题 统计学
+
+https://sabifo4.github.io/blog/Morphometrics_and_Procrustes_alignment 形状普氏分析 统计学
+
+https://seldenlab.github.io/perdiz3/ 普氏分析电子书 统计学
+
+https://github.com/iharshgor/twitter-bot 推特机器人 推特机器人
+
+http://jackson.eeb.utoronto.ca/procrustes-analysis/ 普氏分析介绍 统计学
+
+http://qiime.org/tutorials/procrustes_analysis.html qiime普氏分析 统计学
+
+https://logarithmic.net/langevitour/articles/examples.html 交互式多维数据分析工具 R交互
+
+https://meetings.cshl.edu/courses.aspx?course=C-data&year=22 冷泉港基因组学会议 会议
+
+https://fmmattioni.github.io/downloadthis/articles/downloadthis.html Rmd下载功能 Rmd
+
+https://github.com/brendanf/FUNGuildR 真菌功能预测注释工具 功能注释 https://github.com/UMNFuN/FUNGuild
+
+https://www.bioconductor.org/help/course-materials/2015/Uruguay2015/day5-data_analysis.html 差异分析R代码 差异分析
+
+https://satijalab.org/seurat/reference/foldchange FoldChange函数统计学基础
+
+https://hbctraining.github.io/Intro-to-R-with-DGE/lessons/B1_DGE_visualizing_results.html 差异分析R代码 差异分析
+
+https://koalaverse.github.io/vip/articles/vip.html vip分析R 差异分析
+
+https://www.bioconductor.org/packages/devel/bioc/vignettes/ropls/inst/doc/ropls-vignette.html PLS-DA和OPLS-DA分析 多元分析 https://mdatools.com/docs/plsda--predictions.html
+
+https://stackoverflow.com/questions/34882668/import-png-into-rstudio 向R中读取png文件 R基础
+
+https://cran.r-project.org/web/packages/oceanmap/oceanmap.pdf 海洋地图R包 R基础
+
+http://www.gradaanwr.net/content/04-displaying-categorial-data/ R可视化图库及代码示例博客 图库
+
+https://cmebg.com/en/sabitia/icdbb2022/ 国际多样性会议 会议
+
+https://www.routledge.com/Outstanding-User-Interfaces-with-Shiny/Granjon/p/book/9780367643652 shiny电子书 shiny https://unleash-shiny.rinterface.com/
+
+https://r-universe.dev/sysdeps/ R包系统依赖关系 R基础
+
+https://yumiaolab.r-universe.dev/ui#view:pmd/reactomics.html 代谢反应组R分析 代谢组
+
+https://spatialomics.net/talks/ 空间组学讲座视频 空间组学
+
+https://ropensci.org/ ropensci主页 ropensci
+
+ 
