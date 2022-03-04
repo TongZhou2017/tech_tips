@@ -919,4 +919,76 @@ https://spatialomics.net/talks/ 空间组学讲座视频 空间组学
 
 https://ropensci.org/ ropensci主页 ropensci
 
- 
+https://tanaylab.github.io/metacell/index.html 单细胞分析R包 单细胞分析
+
+https://www.rforecology.com/post/how-to-use-pipes/ R管道函数 R基础
+
+https://jobs.dkfz.de/en/jobs/94239/postdoc-position-in-clinical-bioinformatics-for-breast-cancer-precision-oncology 乳腺癌生信博后职位 职位
+
+https://emilyriederer.github.io/demo-crosstalk/tutorial/tutorial-rmd.html 不依赖shiny创建交互式html图表 R交互
+
+https://psyteachr.github.io/introdataviz/index.html R入门电子书 R书
+
+https://book.rwithoutstatistics.com/ R入门电子书 R书
+
+https://www.fisheries.noaa.gov/alaska/habitat-conservation/aquatic-invasive-species-alaska 海洋物种入侵 海洋生态健康
+
+https://www.protocols.io/view/total-rna-and-dna-from-microalgae-24-samples-per-d-b4tfqwjn 微藻核酸提取方法 分子实验
+
+https://rfortherestofus.com/3months/ R语言付费培训课程 R教程
+
+https://www.youtube.com/channel/UCLgFrIEoBbAg9WfqTmbxweQ/featured shiny视频教程 shiny
+
+https://www.mattroumaya.com/post/52-different-ways-to-rename-a-column-in-r/ R数据框重命名列名 R基础
+
+https://www.eventbrite.com.au/e/rna-seq-workshop-from-reads-to-differentially-expressed-genes-registration-274533094877 转录组线上免费培训 培训
+
+https://www.bdmy.org.mx/infographics 海洋生物多样性可视化 可视化
+
+https://www.rstudio.com/resources/cheatsheets/ R小抄大全 R基础
+
+https://linmi.cc/9367.html notion小数点位数计算 notion
+
+https://strata.uga.edu/software/pdf/pcaTutorial.pdf R实现PCA分析 R基础
+
+http://www.360doc.com/content/19/0808/00/52645714_853593355.shtml ggplot导出ppt R可视化
+
+https://github.com/NeotomaDB/neotoma2 古生态数据库R包 古生态
+
+http://bioinformatics.sdstate.edu/idep/ 转录组差异通路分析在线工具 shiny
+
+https://www.sharpsightlabs.com/blog/histogram-r-ggplot2/?utm_source=twitter&utm_medium=social R分布直方图绘制博客 博客
+
+https://github.com/caleblareau/gchromVAR 单细胞组学联合GWAS分析工具 单细胞组分析工具
+
+https://github.com/sankaranlab/SCAVENGE 单细胞功能和遗传关联分析 单细胞分析工具
+
+https://github.com/sydneyg/OTUvESV ASV和OTU比较代码 ASV和OTU
+
+https://datavizpyr.com/how-to-make-boxplot-with-a-line-connecting-mean-values-in-r/ 箱型图添加组间均值连线 R可视化
+
+https://github.com/CaptainFerMag/PyADM1 厌氧消化模型1的Python实现 模拟计算工具
+
+https://www.combine.org.au/introduction-to-r-and-data-visualisation-2022/#!event-register/2022/3/14/introduction-to-r-and-data-visualisation R可视化培训 培训
+
+http://scxy.ouc.edu.cn/lplb/2020/0423/c13781a285136/page.htm 四膜虫大小核遗传 遗传学基础
+
+https://github.com/mdozmorov/HiC_tools Hi-C分析工具汇总 Hi-C
+
+https://jokergoo.github.io/2022/03/01/easily-convert-static-heatmaps-to-interactive-heatmaps-in-shiny-apps/ 动态热图工具 R交互
+
+https://www.rforecology.com/post/introduction-to-missing-data-in-r/ R缺失值处理 R统计基础
+
+https://salmaeng71.medium.com/the-ultimate-r-guide-to-process-missing-or-outliers-in-dataset-65e2e59625c1 R缺失值和离群值处理 R统计基础
+
+https://statisticsglobe.com/create-package-r R包开发教程 R包开发
+
+https://towardsdatascience.com/dagshub-a-github-supplement-for-data-scientists-and-ml-engineers-9ecaf49cc505 数据模型管理仓库 仓库 https://dagshub.com/
+
+https://fishsounds.net/index.js 鱼类声音数据库 海洋生物数据库
+
+https://github.com/r-lib/actions/tree/master/examples#readme github的Actions功能R相关配置 Actions
+
+https://satijalab.org/scgd22/ 单细胞年度会议 单细胞组会议
+
+
