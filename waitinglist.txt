@@ -991,4 +991,32 @@ https://github.com/r-lib/actions/tree/master/examples#readme github的Actions功
 
 https://satijalab.org/scgd22/ 单细胞年度会议 单细胞组会议
 
+https://bookdown.org/content/d1e53ac9-28ce-472f-bc2c-f499f18264a3/ 高效R编程实战 R电子书
+
+https://twitter.com/arkosiorek/status/1501862039756623872 机器学习前言话题讨论 机器学习
+
+https://www.tjmahr.com/self-titled-ggplot2-plots/ 同时输出代码及可视化图形的R包 自文档
+
+https://global.oup.com/academic/category/science-and-mathematics/biological-sciences/biomathematics-and-statistics/?cc=ca&lang=en&prevNumResPerPage=20&prevSortField=1&sortField=8&resultsPerPage=20&utm_campaign=1420139865784991222&utm_source=oxford%20academic&utm_medium=referral&utm_content=banner%20link&utm_term=skyscraper%20banner 牛津出版社书单 书单
+
+https://ggplot2.tidyverse.org/reference/geom_density.html ggplot密度图 R可视化
+
+https://stackoverflow.com/questions/7549694/add-regression-line-equation-and-r2-on-graph ggplot点图添加回归线方程 R可视化
+
+https://www.ling.upenn.edu/~joseff/rstudy/summer2010_ggplot2_intro.html ggplot教程 R可视化
+
+https://github.com/shenwei356/kmcp 宏基因组物种组成扫描工具 宏基因组
+
+https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3090/ 高性价比GPU GPU
+
+https://towardsdatascience.com/top-machine-learning-algorithms-for-classification-2197870ff501 机器学习分类算法 机器学习
+
+https://towardsdatascience.com/overview-on-apply-map-applymap-iterrows-itertuples-df752a11f451 R循环和向量化处理比较 R基础
+
+https://www.youtube.com/c/RiffomonasProject/playlists 微生物组R语言数据分析视频教程 R教程
+
+https://probability4datascience.com/ 概率论教材 统计学
+
+https://www.scientificamerican.com/podcast/episode/tiny-worms-are-equipped-to-battle-extreme-environments/ 极端环境下的线虫 线虫
+
 
