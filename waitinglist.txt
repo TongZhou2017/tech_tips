@@ -1019,4 +1019,42 @@ https://probability4datascience.com/ 概率论教材 统计学
 
 https://www.scientificamerican.com/podcast/episode/tiny-worms-are-equipped-to-battle-extreme-environments/ 极端环境下的线虫 线虫
 
+https://rdrr.io/cran/ape/man/cophenetic.phylo.html 从系统发育树上获得节点之间的距离的R函数 系统发育分析
 
+https://cran.r-project.org/web/packages/phylobase/vignettes/phylobase.pdf phylobase包phylo4对象 系统发育分析
+
+https://yulab-smu.top/treedata-book/chapter2.html?q=subset#subset-node ggtree包系统发育树按级回溯R函数 系统发育分析
+
+https://bio-protocol.org/bio101/e1010674 Rbase进行系统发育分析及复杂可视化 系统发育分析
+
+http://ape-package.ird.fr/misc/DrawingPhylogenies.pdf ape进行系统发育分析及相关可视化方法 系统发育分析
+
+http://www.phytools.org/eqg/Exercise_3.2/ phylo对象的数据结构 系统发育分析
+
+https://mp.weixin.qq.com/s/cLPkbQQRME02Llh9xkBlZQ 群落分析shannon可视化 生态学
+
+https://github.com/smithlabcode/walt 亚硫酸氢盐DNA甲基化测序mapping工具 DNA甲基化
+
+https://github.com/mlverse/torch Rtorch包 机器学习
+
+https://learn.business-science.io/free-rtrack-masterclass R在线教程 R基础
+
+https://www.visualisingdata.com/2022/03/best-of-the-visualisation-web-november-2021/ 数据可视化阅读最佳实例 数据可视化
+
+https://dataand.me/posts/2022-03-09-highcharter-a11y-talk/ 数据可视化R包highcharter介绍 可视化
+
+https://drive.google.com/drive/folders/1Lp7sIbIGzt3fZU9vKSckXVAoumGqKwrn 实验室技术手册实例 实验室技术手册
+
+https://guslipkin.medium.com/writing-faster-r-with-vectorization-and-the-apply-family-ff6078a2583a apply家族介绍及向量化计算 R基础
+
+https://bioconductor.org/packages/devel/bioc/vignettes/OmicCircos/inst/doc/OmicCircos_vignette.pdf 环形图可视化方法 CNV
+
+http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/77-facilitating-exploratory-data-visualization-application-to-tcga-genomic-data/ ggpubr包分析TCGA数据实例 TCGA
+
+https://www.biostars.org/p/343204/ TCGA的CNV数据前处理 CNV
+
+https://bioconductor.org/packages/devel/bioc/vignettes/conumee/inst/doc/conumee.html CNV分析R包 CNV
+
+https://rdrr.io/cran/ape/man/drop.tip.html 系统发育树节点取舍处理工具 系统发育分析
+
+https://rpkgs.datanovia.com/factoextra/reference/hcut.html 基于距离矩阵的树结构聚类 聚类
