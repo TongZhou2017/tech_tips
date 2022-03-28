@@ -1058,3 +1058,61 @@ https://bioconductor.org/packages/devel/bioc/vignettes/conumee/inst/doc/conumee.
 https://rdrr.io/cran/ape/man/drop.tip.html 系统发育树节点取舍处理工具 系统发育分析
 
 https://rpkgs.datanovia.com/factoextra/reference/hcut.html 基于距离矩阵的树结构聚类 聚类
+
+https://r-graph-gallery.com/303-lollipop-plot-with-2-values.html R哑铃图可视化方法 可视化
+
+https://thomas-neitmann.github.io/ggcharts/reference/dumbbell_chart.html R哑铃图可视化方法 可视化
+
+https://datavizpyr.com/dumbbell-plot-in-r-with-ggplot2/ R哑铃图可视化方法 可视化
+
+https://user2022.r-project.org/ R语言2022全球大会 会议
+
+https://www.tibco.com/zh-hans/reference-center/what-is-analysis-of-variance-anova#:~:text=%E6%96%B9%E5%B7%AE%E5%88%86%E6%9E%90(%20ANOVA%20)%20%E6%98%AF%E4%B8%80,%E6%A0%B7%E6%9C%AC%E6%80%BB%E4%BD%93%E6%98%AF%E4%B8%80%E7%BE%A4%E4%BA%BA%E3%80%82 方差分析中文教程 方差分析
+
+https://xvrdm.github.io/ricv/ Rmd和shiny中双图滑窗 Rmd
+
+https://bigdatabiology.substack.com/p/bdb-lab-spring-2022-update?s=r 全球微生物组数据及水平基因转移 微生物图谱
+
+https://www.pnas.org/doi/10.1073/pnas.1912488116 博士生技能发展相关因素 职业发展
+
+https://www.zymoresearch.com/collections/zymobiomics-microbial-community-standards ZYMO模拟群落标准品清单 mock
+
+https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/ github的issue更新自动打印机构建 github
+
+https://twitter.com/coolbutuseless/status/1507092287331143680 R的GUI构建 R交互
+
+https://deepai.org/machine-learning-glossary-and-terms/descriptive-statistics 描述统计 统计学基础
+
+https://www.rstudio.com/blog/creating-apis-for-data-science-with-plumber/ 创建R函数的数据接口plumber包 R基础
+
+https://press.princeton.edu/books/ebook/9780691219042/phylogenetic-comparative-methods-in-r 系统发育比较分析R方法 系统发育分析
+
+https://www.10xgenomics.com/resources/analysis-guides/trajectory-analysis-using-10x-Genomics-single-cell-gene-expression-data 10x细胞轨迹分析教程 单细胞分析方法
+
+https://www.youtube.com/watch?v=WcDaZ67TVRo Python基础教程 Python
+
+https://cran.r-project.org/web/packages/fsthet/fsthet.pdf FST分析R包fsthet 种群遗传
+
+https://cran.r-project.org/web/packages/poolfstat/vignettes/vignette.pdf FST分析R包poolfstat 种群遗传
+
+https://baylab.github.io/MarineGenomics/week-7--fst-and-outlier-analysis.html 海洋生物基因组学电子书FST分析章节 种群遗传
+
+https://owensgl.github.io/biol525D/Topic_8-9/fst.html FST分析教程 种群遗传
+
+https://bionumbers.hms.harvard.edu/search.aspx 生命之数数据库 数据库
+
+https://github.com/al2na/methylKit DNA甲基化分析R包 表观组
+
+https://jobs.apple.com/en-us/details/200311967/data-scientist-apple-finance-r-shiny 苹果招聘R和Shiny专家 招聘
+
+https://github.com/nla-group/classix 新无监督聚类算法 聚类
+
+https://ngdc.cncb.ac.cn/cgir/ 华中一数据库 数据库
+
+https://blog.csdn.net/hs6605015/article/details/122273885 FST分析 群体遗传
+
+https://www.tinkercad.com/things/aztrXrMCsm2 滚轮3D打印模型 3D打印
+
+https://docs.tibco.com/pub/enterprise-runtime-for-R/4.0.1/doc/html/Language_Reference/stats/cophenetic.html 树结构的节点之间距离计算R函数 聚类
+
+
