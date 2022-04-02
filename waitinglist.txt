@@ -1115,4 +1115,14 @@ https://www.tinkercad.com/things/aztrXrMCsm2 滚轮3D打印模型 3D打印
 
 https://docs.tibco.com/pub/enterprise-runtime-for-R/4.0.1/doc/html/Language_Reference/stats/cophenetic.html 树结构的节点之间距离计算R函数 聚类
 
+https://enve-omics.gatech.edu/ Kostas组介绍 课题组
+
+https://twitter.com/fungaloha/status/1509299223610548226 真菌宏基因组宏转录组分析最佳实践文献列表 宏基因组
+
+https://twitter.com/VdaGeraldine/status/1263336914859560962 基因组云计算 云计算
+
+https://www.freelancer.com/projects/r-programming-language/Bioinformatics-Language-Project?w=f&ngsw-bypass= R语言生物信息学职位 招聘
+
+https://sebkrantz.github.io/collapse/ 超快数据处理R包 R基础
+
 
