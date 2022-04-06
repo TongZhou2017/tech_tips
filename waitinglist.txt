@@ -1125,4 +1125,16 @@ https://www.freelancer.com/projects/r-programming-language/Bioinformatics-Langua
 
 https://sebkrantz.github.io/collapse/ 超快数据处理R包 R基础
 
+https://gist.github.com/moodymudskipper/69cdb8d8b21f8faa986c07ed821f1049 给变量增加隐藏属性的R函数 R基础
+
+https://www1.jobdiva.com/portal/?a=kvjdnwtsxgckrpsoozx5qc0oueybw1005779v7x6soig8eyqqmzaubfdl9tcx21s#/jobs/19783375 R和shiny远程职位 招聘
+
+https://geospatial.gishub.org/?continueFlag=c91e273d5ae7e68839c43f3ca969d6b5 空间地理Python工具 空间地理
+
+https://www.jax.org/education-and-learning/education-calendar/2022/may/long-read-sequencing-workshop 长读长测序培训 赞助
+
+https://www.jax.org/education-and-learning/course-and-conferences/sponsor 赞助权益模板 赞助
+
+https://www.openatom.org/#/cooperativeRelation/joinOpenAtom/0.7464331309138619 赞助权益模板 赞助
+
 
