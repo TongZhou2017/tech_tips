@@ -1137,4 +1137,56 @@ https://www.jax.org/education-and-learning/course-and-conferences/sponsor 赞助
 
 https://www.openatom.org/#/cooperativeRelation/joinOpenAtom/0.7464331309138619 赞助权益模板 赞助
 
+https://www.biostars.org/p/343204/ TCGA的CNV数据处理 CNV
+
+https://www.jianshu.com/p/fe565169abec 获取公众号所有历史文章链接 公众号框架2.0
+
+https://bioinfo.lifl.fr/sortmerna/sortmerna.php rRNA比对工具SortMeRNA rRNA识别
+
+https://www.runcomets.org/ 微生物生态系统时空分析工具 微生物组
+
+https://stackoverflow.com/questions/30283873/split-one-row-into-multiple-rows R基于列拉伸表格 R基础
+
+https://md.zxzyl.com/archives/1091/ R语言CNV数据准备 CNV
+
+https://docs.gdc.cancer.gov/Data/Bioinformatics_Pipelines/CNV_Pipeline/ CNV分析流程 CNV 流程集合
+
+https://bioconductor.org/packages/devel/bioc/vignettes/cghMCR/inst/doc/findMCR.pdf 少量样本的CNV计算包cghMCR CNV
+
+https://www.mskcc.org/sites/default/files/node/18547/documents/iclusterplususerguide_0.pdf 大量样本的CNV计算包iClusterPlus CNV
+
+https://conferenceindex.org/ 会议信息收录网站 网站
+
+https://blog.csdn.net/woodcorpse/article/details/106554527 普氏分析全套代码 普氏分析
+
+https://stackoverflow.com/questions/26838005/putting-x-axis-at-top-of-ggplot2-chart ggplot坐标轴上下左右位置及对调 R可视化
+
+https://r-graphics.org/recipe-legend-reverse ggplot可视化legend元素次序调整 R可视化 电子书
+
+https://blog.csdn.net/weixin_43367441/article/details/123682669 群落中性模型原理及R代码 中性模型
+
+https://sunnews.cc/game/293053.html 群落中性模型原理及R代码 中性模型
+
+https://rlang.io/create-3d-county-maps-using-density-as-z-axis/ 三维密度图 R可视化
+
+https://www.pluralsight.com/guides/linear-lasso-and-ridge-regression-with-r R语言回归分析 统计基础
+
+https://www.imooc.com/article/269834 温盐图R语言绘制 海洋R语言
+
+https://m-clark.github.io/generalized-additive-models/application.html GAM拟合 R基础 电子书
+
+http://chartmaker.visualisingdata.com/ 可视化方法比较 可视化 网站
+
+https://github.com/brentthorne/posterdown 基于Rmd生成海报的R包 Rmd
+
+http://fiererlab.org/publications/ Fierer实验室发表论文情况 实验室
+
+https://github.com/KatariinaParnanen/MobileGeneticElementDatabase MGE数据库 数据库
+
+https://twitter.com/antoine_fabri/status/1510988603219927040 R开发黄精所需包 R开发
+
+https://www.markdown.xyz/getting-started/ Markdown学习资料 Markdown
+
+http://www.360doc.com/content/20/0628/11/52334415_921032678.shtml 一致性检验 R统计
+
 
