@@ -1189,4 +1189,74 @@ https://www.markdown.xyz/getting-started/ Markdown学习资料 Markdown
 
 http://www.360doc.com/content/20/0628/11/52334415_921032678.shtml 一致性检验 R统计
 
+https://easystats.github.io/performance/ 模型评估与比较R包 R模型
+
+https://psyteachr.github.io/introdataviz/ R数据可视化电子书 R可视化
+
+https://en.wikipedia.org/wiki/Shader 可视化方法shader 可视化技术
+
+https://blog.bco-dmo.org/2021/12/03/bcodmo-vision2021 海洋学数据库 数据库
+
+http://blog.phytools.org/2022/04/combining-phytools-phylotomap-and.html 树形图与地图关联可视化R代码 R可视化
+
+https://slcladal.github.io/topicmodels.html topicmodels模型评估函数 模型
+
+https://threejs.org/docs/#api/en/materials/ShaderMaterial there.js的shader学习电子书 shader
+
+https://www.youtube.com/watch?v=vM8M4QloVL0 there.js的shader学习视频教程 shader
+
+https://www.youtube.com/watch?v=bC4xJzbKNd0 there.js的shader入门简介视频 shader
+
+https://www.shadertoy.com/ shader图库代码库 shader
+
+https://jnolis.com/presentations/general/Nolis%20-%20My%20Shiny%20Journey.pdf Shiny讲座ppt Shiny
+
+https://awesomeopensource.com/projects/bioinformatics 生物信息工具排行榜 排行
+
+https://nordicapis.com/introduction-to-the-notion-api/ Notion数据接口介绍 API
+
+https://github.com/dmolitor/notionr Notion数据接口R包 API
+
+https://support.apple.com/zh-cn/HT201260 苹果系统版本列表 苹果
+
+https://bynss.com/howto/863956.html 苹果万能控制介绍 苹果
+
+https://www.ithome.com/0/603/056.htm 苹果万能控制介绍 苹果
+
+https://github.com/zdk123/SpiecEasi 网络分析工具 网络分析
+
+https://github.com/zdk123/pulsar 网络分析工具 网络分析
+
+https://github.com/YongxinLiu/MicrobiomeStatPlot 宏基因组公众号历史文章合集 公众号合集
+
+https://twitter.com/robinson_es/status/1523748263706251264 笔记本选购建议 选购
+
+https://github.com/thomasp85/patchwork/issues/46 调整patchwork包拼图间距 R可视化
+
+https://stackoverflow.com/questions/12598242/global-variables-in-packages-in-r R语言全局变量 R基础
+
+https://twitter.com/bindureddy/status/1522793091534450689 数据科学学习路线 数据科学
+
+http://blog.fens.me/r-na-mice/ 缺失值填充R包 R统计
+
+https://zhuanlan.zhihu.com/p/378678283 缺失值填充R包 R统计
+
+https://shootingwang.github.io/R%E8%AF%AD%E8%A8%80-MICE.html 缺失值填充R包 R统计
+
+https://dyfocus.com/zh-cn/news-investment/187f89.html 缺失值填充R包 R统计
+
+https://twitter.com/IslandGenomics/status/1522611938710081536 eDNA和宏条形码文献汇总 文献集合
+
+https://www.analyticsvidhya.com/blog/2022/05/a-comprehensive-guide-on-data-visualization-in-r/ 柱形点图可视化 R可视化
+
+https://developers.notion.com/reference/post-database-query notion数据接口API使用文档 API
+
+https://egghead.io/lessons/next-js-request-paginated-data-from-notion-api-with-next-js Notion数据端口API开发视频教程 API
+
+https://zhuanlan.zhihu.com/p/43348582 短链综述 短链
+
+https://docs.cubox.pro/started/save/api Cubox数据端口API文档 API
+
+https://www.biostars.org/p/69748/#69767 基于ggplot2计算基因组滑窗基因数 基因组
+
 
