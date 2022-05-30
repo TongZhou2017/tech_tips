@@ -1259,4 +1259,64 @@ https://docs.cubox.pro/started/save/api Cubox数据端口API文档 API
 
 https://www.biostars.org/p/69748/#69767 基于ggplot2计算基因组滑窗基因数 基因组
 
+https://twitter.com/hashtag/nemabiome?src=hashtag_click 线虫组文献信息集合 线虫组
+
+https://www.jianshu.com/p/d4e0aaf5a9a6 R语言卡方检验 R统计
+
+https://zhuanlan.zhihu.com/p/80416072 累计meta分析 统计学
+
+https://www.rstudio.com/academy RStudio学术组织 R社群
+
+https://rpubs.com/m3cinc/Benchmarking_20_Machine_Learning_Models_Accuracy_and_Speed 20个机器学习模型R语言代码实例 R机器学习
+
+https://stringr.tidyverse.org/reference/str_wrap.html 字符串换行 R基础
+
+https://cran.r-project.org/web/packages/ggfittext/vignettes/introduction-to-ggfittext.html ggfittext包对文本进行自适应调整 R可视化
+
+http://sape.inf.usi.ch/quick-reference/ggplot2/geom_rect ggplot2绘制色块 R可视化
+
+https://s4be.cochrane.org/blog/2018/11/29/what-is-heterogeneity/ 卡方检验 统计学基础
+
+https://cjvanlissa.github.io/Doing-Meta-Analysis-in-R/pool.html 元分析R语言书 元分析
+
+https://www.rdocumentation.org/packages/rgl/versions/0.108.3/topics/play3d 三维图形动态可视化 R可视化
+
+https://r-graphics.org/recipe-miscgraph-3d-animate 三维图形动态可视化 R可视化
+
+https://cran.r-project.org/web/packages/protein8k/vignettes/using_plot3D.html 三维图形可视化 R可视化
+
+https://stackoverflow.com/questions/57717138/remove-axes-ticks-using-plot3d-in-r 三维图形可视化隐藏坐标轴 R可视化
+
+https://stackoverflow.com/questions/17700942/nice-way-to-generate-grid-of-points-for-use-in-3d-plots 三维图形可视化 R可视化
+
+https://patchwork.data-imaginist.com/articles/guides/annotation.html patchwork包加标题 R可视化
+
+https://www.datanovia.com/en/blog/how-to-remove-legend-from-a-ggplot/ ggplot去除legend R可视化
+
+https://community.rstudio.com/t/geom-rect-as-background-fill-color/79917 ggplot添加背景块 R可视化
+
+https://stackoverflow.com/questions/50339909/shade-background-of-a-ggplot-chart-using-geom-rect-with-categorical-variables ggplot添加背景块 R可视化
+
+https://bookdown.org/donnie_day27/bookdown_assignment/ R基础电子书 R基础
+
+https://stackoverflow.com/questions/3469975/ggplot2-adding-a-background-layer ggplot添加背景块 R可视化
+
+https://towardsdatascience.com/5-steps-for-creating-your-own-ggplot-theme-656e79a96b9 ggthemes包样式 R可视化
+
+https://yutannihilation.github.io/allYourFigureAreBelongToUs/ggthemes/ ggthemes包样式 R可视化
+
+https://stackoverflow.com/questions/11810605/replace-contents-of-factor-column-in-r-dataframe 数据框内容批量替换 R基础
+
+https://stackoverflow.com/questions/44966772/scale-x-date-on-other-column-or-using-hour-as-well-as-date 时间序列坐标轴范围限制 R可视化
+
+https://stackoverflow.com/questions/30607514/setting-limits-with-scale-x-datetime-and-time-data 时间序列坐标轴范围限制 R可视化
+
+https://stackoverflow.com/questions/48508907/r-time-trans-works-with-objects-of-class-posixct 时间序列坐标轴刻度 R可视化
+
+https://www.themillerlab.io/post/timelines_in_r/ vistime包绘制时间线图 R可视化
+
+https://cran.r-project.org/web/packages/vistime/vignettes/gg_vistime-vignette.html vistime包绘制时间线图bug颜色调整严格格式要求 R可视化
+
+https://stackoverflow.com/questions/44265512/creating-a-timeline-in-r vistime包绘制时间线图 R可视化
+
 
