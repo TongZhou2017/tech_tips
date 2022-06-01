@@ -1319,4 +1319,12 @@ https://cran.r-project.org/web/packages/vistime/vignettes/gg_vistime-vignette.ht
 
 https://stackoverflow.com/questions/44265512/creating-a-timeline-in-r vistime包绘制时间线图 R可视化
 
+https://www.ecseq.com/support/ngs/what-is-a-good-sequencing-depth-for-bulk-rna-seq bulkRNAseq测序深度 转录组
+
+https://cran.r-project.org/web/packages/vitae/vignettes/vitae.html vitae包由Rmd文件生成简历 Rmd
+
+https://www.sipf.com.cn/flfg/2020/03/12855.shtml# 公司法 法律
+
+https://community.rstudio.com/t/how-to-efficiently-change-range-of-columns-from-character-to-numeric/138742 数据框列数据类型批量修改 R基础
+
 
