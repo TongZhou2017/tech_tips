@@ -1327,4 +1327,49 @@ https://www.sipf.com.cn/flfg/2020/03/12855.shtml# 公司法 法律
 
 https://community.rstudio.com/t/how-to-efficiently-change-range-of-columns-from-character-to-numeric/138742 数据框列数据类型批量修改 R基础
 
+https://twitter.com/udara_94/status/1531953068753010689 生物信息图库素材 图库
 
+https://github.com/bxlab/metaWRAP 宏基因组binning分析流程 宏基因组
+
+https://twitter.com/tangming2005/status/1532011441015889921 表格内绘制频次分布图
+ R可视化
+
+https://twitter.com/eDNAcollab/status/1532155569661878273 eDNA小额项目资助 项目
+
+https://www.ivysci.com/sciguide/docs/guide/notes/ 卡片式笔记 文献阅读
+
+https://sspai.com/post/37258 mac自动化执行命令 自动化
+
+https://bynss.com/apple/595308.html mac自动化执行命令 自动化
+
+https://towardsdatascience.com/a-step-by-step-guide-to-scheduling-tasks-for-your-data-science-project-d7df4531fc41#:~:text=Although%20launchd%20is%20the%20preferred,useful%20to%20automate%20repetitive%20tasks. mac自动化执行命令 自动化
+
+https://superuser.com/questions/126907/how-can-i-get-a-script-to-run-every-day-on-mac-os-x mac自动化执行命令 自动化
+
+https://betterprogramming.pub/https-medium-com-ratik96-scheduling-jobs-with-crontab-on-macos-add5a8b26c30 mac自动化执行命令 自动化
+
+https://zhuanlan.zhihu.com/p/65361113 转录组数据负二项分布 统计学
+
+https://blog.sciencenet.cn/home.php?mod=space&uid=3431904&do=blog&id=1308379 DESeq2原理 差异分析
+
+https://docs.google.com/forms/d/e/1FAIpQLSer6kjFOPOnvaUSFh6oxLi9Fclfh9sZWXBOSGT-4ZMQD33tqg/viewform eDNA全民科学调查 全民科学
+
+https://docs.google.com/spreadsheets/d/1_dAyUts51jgici9dy-l0IVPypUCRvmLsVXSrmVEXjoI/edit#gid=0 2022生物信息会议 会议
+
+https://github.com/gdagstn/swatcheR 基于图片的色彩分析R包 R配色
+
+https://www.rstudio.com/blog/grow-your-data-science-skills-with-academy/ RStudio学术团队介绍 R社群
+
+https://docs.microsoft.com/en-us/learn/paths/machine-learning-with-r/ R语言机器学习教程 机器学习
+
+https://citedrive.com/blog/data-visualization-packages-for-r-you-should-check-out R语言数据可视化包 R可视化
+
+https://www.itranslater.com/qa/details/2583165583978136576 R语言数据框比较 R基础
+
+https://bookdown.org/Maxine/r4ds/comparing-two-data-frames-tibbles.html R语言数据框比较 R基础
+
+https://cytoscape.leovan.tech/styles/ 网络图样式 网络分析
+
+https://manual.cytoscape.org/en/stable/Styles.html 网络图样式 网络分析
+
+https://www.wilderlab.co.nz/blog/introducing-our-new-kkahi-metabarcoding-assay 新西兰特有贝类eDNA研究采样装备 eDNA
