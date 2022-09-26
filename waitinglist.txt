@@ -1373,3 +1373,158 @@ https://cytoscape.leovan.tech/styles/ 网络图样式 网络分析
 https://manual.cytoscape.org/en/stable/Styles.html 网络图样式 网络分析
 
 https://www.wilderlab.co.nz/blog/introducing-our-new-kkahi-metabarcoding-assay 新西兰特有贝类eDNA研究采样装备 eDNA
+
+https://twitter.com/gerlame/status/1557559400390225920 R语言提示音beepr包 R基础
+
+https://twitter.com/NeuroLuebbert/status/1555968042948915200 python搜索蛋白质三位结构预测gget包 蛋白质结构
+
+https://www.rcsb.org/alignment 蛋白质结构相似度比对工具
+
+https://blacksmithgu.github.io/obsidian-dataview/query/examples/ Obsidian插件DataView检索表 Obsidian
+
+https://mp3cut.net/cn/change-speed 音频变速 音频处理
+
+https://convertio.co/ 文件格式转换工具 音频处理
+
+https://cran.r-project.org/web/packages/seewave/vignettes/seewave_IO.pdf seewave包声音文件读写 音频处理
+
+https://www.r-bloggers.com/2020/02/working-with-audio-in-r-using-av/ av包音频分析 音频分析
+
+https://mermaid-js.github.io/mermaid/ Mermaid语法介绍 Mermaid
+
+https://raphaelkabo.com/ 一个有意思的人的有意思的博客 博客
+
+https://www.marianamontes.me/post/obsidian-and-zotero/ R用户的Obsidian、Git、Zotero联用教程 Obsidian
+
+https://www.r-bloggers.com/2022/07/posit-why-rstudio-is-changing-its-name/ Rstudio改名Posit 新闻
+
+https://asm.org/ASM/media/Academy/Academy%20Reports/Microbes-Climate-Change-Science,-People-Impacts-Report.pdf 年度全球环境变化与微生物报告
+
+https://www.cnblogs.com/martin-1/p/14248594.html Mermaid中文教程 Mermaid
+
+https://blog.csdn.net/kMD8d5R/article/details/85182184 R语言拼图方法 R可视化
+
+https://flare9xblog.wordpress.com/2017/08/11/hurst-exponent-in-r/ Hurst指数教程 时间序列分析
+
+https://segmentfault.com/a/1190000040259794?utm_source=sf-similar-article R语言异常点检测 时间序列分析
+
+https://hscrb.harvard.edu/people/fei-chen/ Slide-DNA-seq发明人 空间组学
+
+https://stackoverflow.com/questions/20155400/defining-minimum-point-size-in-ggplot2-geom-point 设置点大小变化范围 R可视化
+
+https://ggrepel.slowkow.com/articles/examples.html 自动避免遮盖label R可视化
+
+https://blog.csdn.net/zhaoyuxia517/article/details/79420860 R语言取整数 R基础
+
+https://rpubs.com/rossibarra/61700 fst英文代码教程 群体遗传
+
+https://github.com/YinLiLin/CMplot fst可视化包 R可视化
+
+https://blog.csdn.net/qq_52186948/article/details/111397847 R语言seewave包和tuneR包介绍 声纹分析
+
+https://data.mendeley.com/datasets/g2mysjfp52/3 珊瑚单细胞转录组数据 单细胞组学
+
+https://stackoverflow.com/questions/71417657/scale-color-gradient2-in-gheatmap ggtree热图三色变化	R可视化
+
+https://stackoverflow.com/questions/12029177/sparse-matrix-to-a-data-frame-in-r matrix转数据框 R基础
+
+https://hbctraining.github.io/Intro-to-ChIPseq/schedule/2-day.html Chip-seq教程 Chip-seq
+
+https://wavefilegem.com/how_wave_files_work.html WAVE文件解析 声纹分析
+
+https://docs.python.org/3/library/struct.html python的struct包详解 Python基础
+
+https://asm.org/Webinars/Virtual-Journal-Club?utm_source=atypon&utm_medium=banner&utm_campaign=virtual-journal-club&utm_term=20220209&utm_content=box-vjc-cphm-mktg ASM线上文献分享组会 组会
+
+https://www.loc.gov/preservation/digital/formats/fdd/fdd000470.shtml R数据文件数据结构 R基础
+
+https://www.loc.gov/preservation/digital/index.html 数据结构大全 计算机基础
+
+https://www.digitalocean.com/community/tutorials/python-struct-pack-unpack python的struct包详解 Python基础
+
+https://stackoverflow.com/questions/12945113/finding-peaks-in-vector peak-calling简单算法 peak-calling
+
+https://matloff.wordpress.com/2022/08/06/base-r-is-alive-and-well/ r-base派主张 R基础
+
+https://web.stanford.edu/class/bios221/book/ 生物统计教程 统计学
+
+https://www.youtube.com/watch?v=LJD3nvFXCLE blender视频教程 blender
+
+https://ravensoundsoftware.com/raven-downloads/ 声纹分析软件Raven 声纹分析
+
+https://www.r-bloggers.com/2011/10/the-psychology-of-music-and-the-%E2%80%98tuner%E2%80%99-package/ 使用tuneR包进行音乐分析 声纹分析
+
+https://rstudio-pubs-static.s3.amazonaws.com/92070_d44c3e320fae4b21b12c6101f347b28c.html#21 声纹分析R包介绍ppt 声纹分析
+
+https://marce10.github.io/dynaSpec/ 动态语谱图R语言可视化方法 声纹分析
+
+https://link.springer.com/book/10.1007/978-3-031-01440-6 HMM电子书 统计学
+
+https://hbctraining.github.io/Intro-to-R/lessons/basic_plots_in_r.html R语言可视化基础 R基础
+
+https://twitter.com/TiffanyTimbers/status/1569823641998868481 R语言讨论手绘数据 手绘数据
+
+https://www.zhaw.ch/de/engineering/institute-zentren/idp/ R语言数据分析工作室 工作室
+
+http://cbdm-01.zdv.uni-mainz.de/~jibnsale/teaching/chip-seq_exercises.html R语言Chip-seq分析教程 Chip-seq
+
+https://search.r-project.org/CRAN/refmans/IDPmisc/html/peaks.html peak-calling的R包 peak-calling
+
+https://fishdb.sinica.edu.tw/chi/home.php 台湾鱼类数据库 鱼类
+
+https://blog.csdn.net/weixin_43367441/article/details/123403796 网络结构计算 zipi
+
+https://stat.ethz.ch/pipermail/r-help/2005-November/082681.html 不等列数读取表格 R基础
+
+https://tech.youzan.com/ 有赞 数据分析公司
+
+https://www.rstudio.com/blog/shiny-and-arrow/ 通过parquet格式替代cvs格式进行文件读取提升shiny速度 shiny
+
+https://tomaztsql.wordpress.com/2022/05/08/comparing-performances-of-csv-to-rds-parquet-and-feather-data-types/ 不同数据格式类型的读写速度及内存消耗比较 R基础
+
+https://www.bayesrulesbook.com/ 贝叶斯电子书 统计学习
+
+https://www.bioconductor.org/packages/release/bioc/html/maSigPro.html 时间序列表达差异分析R包 差异分析
+
+https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/ R语言表格可视化 R可视化
+
+https://marineomics.github.io/index.html 海洋基因组学分析教程 海洋基因组
+
+https://taylorreiter.github.io/2022-07-28-From-raw-metagenome-reads-to-phyloseq-taxonomy-table-using-sourmash-gather-and-sourmash-taxonomy/ 从原始宏基因组数据到phyloseq分类表的分析教程 宏基因组
+
+https://taylorreiter.github.io/ 宏基因组博客 博客
+
+https://www.nationalgeographic.com/animals/article/environmental-dna-sheds-light-on-animal-lives-edna 海绵eDNA eDNA
+
+https://www.x.company/projects/tidal/ x公司的水下监测系统 声纹分析
+
+https://aeteschendorff-lab.github.io/ 上海营养所生物信息实验室 主页
+
+https://zhuanlan.zhihu.com/p/490568418 Seurat源码解析 单细胞分析
+
+https://stackoverflow.com/questions/4549489/can-i-change-the-name-of-nohup-out nohup输出文件自定义 Linux基础
+
+http://www.bioconductor.org/packages/release/bioc/vignettes/tanggle/inst/doc/tanggle_vignette.html 蜘蛛网型系统发育树 R可视化
+
+https://www.bilibili.com/read/cv8121258/ Zotero链接插件 Zotero
+
+https://zhuanlan.zhihu.com/p/360262668 Zotero与RSS连用实现文献阅读 Zotero
+
+https://cloud.tencent.com/developer/article/1677701 Zotero与Word联用实现插入参考文献 Zotero
+
+https://blog.csdn.net/qq_51808107/article/details/124044961 Typora图床 Typora
+
+https://www.authorea.com/inst/20403 Ecology_Letters在线平台 期刊平台
+
+https://yezhengstat.github.io/CUTTag_tutorial/index.html Cut&Tag分析教程 Cut&Tag
+
+https://www.ncbi.nlm.nih.gov/books/NBK25497/ NCIB数据库检索工具E-utilities介绍 生物信息工具
+
+https://www.ecodna.org.au/environmental-dna-protocol-and-test-development-guidelines-for-biomonitoring/ 澳大利亚eDNA研究方法手册 eDNA
+
+https://www.ecodna.org.au/environmental-dna-protocol-and-test-development-guidelines-for-biomonitoring/ 澳大利亚eDNA在线社群 eDNA
+
+https://github.com/jeroenjanssens/raylibr/blob/main/demo/snake.R R操作符%on% R基础
+
+https://www.hellorf.com/ 开源图库 设计
+
