@@ -500,7 +500,7 @@ https://github.com/benjjneb/dada2/issues/1328 dada2中对pacbio数据分析的�
 https://github.com/benjjneb/dada2/issues/492 dada2对功能基因的讨论 dada2function
 
 https://github.com/benjjneb/dada2/issues/386 dada2对代表序列的讨论 dada2representseq
-
+ 
 https://github.com/benjjneb/dada2/issues/1445 dada2对三代高嵌合体的讨论 dada2pacbio
 
 https://github.com/benjjneb/dada2/issues/327 dada2对ITS序列预处理的讨论 dada2ITS https://github.com/benjjneb/dada2/issues/671
@@ -1529,4 +1529,128 @@ https://github.com/jeroenjanssens/raylibr/blob/main/demo/snake.R R操作符%on% 
 https://www.hellorf.com/ 开源图库 设计
 
 https://clauswilke.com/dataviz/ R语言数据可视化理论电子书 数据可视化
+
+https://evomics.org/wp-content/uploads/2019/01/Tree_Visualization-Workshop_on_Phylogenomics_2019-_EVOMICS_Cesky_Krumlov.pdf 系统发育树可视化工具比较 系统发育树可视化
+
+https://github.com/jianjunwang/iDOM 微生物组二分网络计算工具 网络分析
+
+https://mermaid.js.org/syntax/flowchart.html Mermaid官方文档 Mermaid
+
+https://support.apple.com/en-hk/guide/mac-help/mh40616/mac MacOS打开第三方开发工具 Mac
+
+https://stackoverflow.com/questions/41744915/convert-upper-triangular-part-of-a-matrix-to-3-column-long-format R语言将矩阵转为网络关系3列表 网络分析
+
+https://shiny.rstudio.com/articles/gadget-ui.html Rstudio插件开发官方文档 Rstudio插件
+
+http://rstudio.github.io/rstudioaddins/?_ga=2.217552022.1676336982.1675217731-61827558.1656458533 Rstudio插件开发官方文档 Rstudio插件
+
+https://deanattali.com/2015/06/28/introducing-shinyjs-colourinput/ Shiny颜色输入组件 Shiny
+
+https://stackoverflow.com/questions/50898623/how-to-replace-multiple-values-at-once R语言按因子水平批量替换元素 R基础
+
+https://stackoverflow.com/questions/45655966/cross-merge-two-vectors R语言交叉合并向量 R基础
+
+https://r-pkgs.org/testing-basics.html R包开发单元测试 R包开发
+
+https://twitter.com/NicholasStrayer/status/1580929459099615232 ShinyUI编辑器 shiny
+
+https://public.tableau.com/app/profile/lilla.rasztik/viz/Tutorialsofvisualizations/Tutorial 可视化图库 可视化
+
+https://wap.sciencenet.cn/home.php?mod=space&do=blog&id=1219163 MEGAN中文教程 MEGAN
+
+https://www.wsi.uni-tuebingen.de/lehrstuehle/algorithms-in-bioinformatics/software/megan6/ MEGAN官方下载 MEGAN
+
+https://software-ab.cs.uni-tuebingen.de/download/megan6/welcome.html MEGAN官方下载 MEGAN
+
+https://github.com/EddyRivasLab/hmmer/issues/283 HMMER3在Mac的M1芯片安装方法 hmmer
+
+https://stackoverflow.com/questions/34496882/get-docker-container-id-from-container-name docker查找特定容器名的进程id docker
+
+https://github.com/rstudio/shiny/issues/2185 shiny动态ui使用list布局 shiny
+
+https://stackoverflow.com/questions/13049575/r-min-max-and-mean-of-off-diagonal-elements-in-a-matrix 非对角线矩阵元素计算最值 R基础
+
+https://stackoverflow.com/questions/74302414/plotting-tree-in-r-with-node-labels 可视化进化树phylo对象显示节点名 R可视化
+
+https://stackoverflow.com/questions/67823186/how-to-select-columns-from-a-dataframe-in-shiny-if-the-user-writes-more-than-1-c shiny选择列名 shiny
+
+https://stackoverflow.com/questions/33873041/dynamically-add-ui-elements-and-gather-their-input-in-a-dataframe-in-shiny shiny动态添加输入元素 shiny
+
+http://devmag.org.za/2012/07/29/how-to-choose-colours-procedurally-algorithms/ 颜色选择算法 配色
+
+https://cran.r-project.org/doc/manuals/R-exts.html#Documenting-functions R包开发运算符方法函数文档撰写标准 R包开发
+
+https://stackoverflow.com/questions/43646273/passing-arguments-to-docker-exec-from-bash-prompt-and-script docker运行长串bash命令 docker
+
+https://community.rstudio.com/t/create-private-helper-functions-in-r-packages/92805/8 R包内置函数 R包开发
+
+https://www.cyberciti.biz/faq/grep-from-files-and-display-the-file-name/ Linux用grep查找文件内容同时输出文件名 Linux基础
+
+https://stackoverflow.com/questions/40885360/remove-entries-from-string-vector-containing-specific-characters-in-r 移除包含特定字符的向量元素 R基础
+
+https://ericcapo.github.io/ericcapo/category/meta-hg.html 全球海洋微生物汞循环图谱 微生物组引擎
+
+https://sparkbyexamples.com/r-programming/replace-empty-string-with-na-in-r-dataframe/ 数据框空值替换 R基础
+
+http://rtutor.ai/ shiny制作的语言交互式R学习系统 shiny
+
+https://bcb.unl.edu/dbCAN2/index.php CAZy自动注释的一个网络服务器 dbCAN2
+
+https://twitter.com/mallorymrice/status/1583589665080156160 生物学和生态学中正负反馈案例 生物学
+
+https://stackoverflow.com/questions/26548495/reorder-rows-using-custom-order 按特定顺序排序数据框
+
+https://github.com/boasvdp/itolparser itol帮助工具 iTOL
+
+https://phylotoast.readthedocs.io/en/latest/scripts/iTol.html itol帮助工具 iTOL
+
+https://hackmd.io/@AstrobioMike/STAMPS-2022-GToTree itol帮助工具 iTOL
+
+https://www.biostars.org/p/466444/ 根据分枝名获得节点名 系统发育树结构
+
+https://support.bioconductor.org/p/87210/ Biostringr读取序列函数 R基础
+
+https://stat.ethz.ch/pipermail/r-help/2014-November/423428.html R包开发...参数文档写法 R包开发
+
+https://www.geeksforgeeks.org/data-table-vs-data-frame-in-r-programming/ 数据表和数据框对比 R基础
+
+https://stackoverflow.com/questions/3418128/how-to-convert-a-factor-to-integer-numeric-without-loss-of-information 批量改变数据框的因子列为数值列 R基础
+
+https://stackoverflow.com/questions/22196078/count-unique-values-for-every-column 统计数据框每列的元素种数 R基础
+
+https://stackoverflow.com/questions/60449436/emulating-reshape2melt-with-pivot-longer-for-matrixes R语言将矩阵转为网络关系3列表 网络分析
+
+https://stackoverflow.com/questions/46981189/preserve-order-of-columns-when-going-from-wide-to-long-format 宽转长保持顺序不变 R基础
+
+https://stackoverflow.com/questions/30944676/make-a-generic-funciton-in-r 定义符号运算函数 R包开发
+
+https://jcarroll.com.au/2018/10/06/adding-strings-in-r/ 改写+函数 R包开发
+
+https://stackoverflow.com/questions/26391921/how-to-convert-entire-dataframe-to-numeric-while-preserving-decimals 数据框列类型批量修改 R基础
+
+https://github.com/thomasp85/patchwork/blob/main/R/arithmetic.R patchwork包的符号运算写法 R包开发
+
+https://stat.ethz.ch/R-manual/R-devel/library/methods/html/setMethod.html 符号运算写法 R包开发
+
+https://www.tutorialspoint.com/how-to-check-which-element-of-a-list-which-is-a-logical-list-is-true-in-r 列表内元素真假判断 R基础
+
+https://stackoverflow.com/questions/18154556/split-text-string-in-a-data-table-columns 数据框从一列中拆分成多列 R基础
+
+https://stackoverflow.com/questions/21025609/how-do-i-extract-a-single-column-from-a-data-frame-as-a-data-frame 从数据框中提取一列仍保持数据框类型而非向量 R基础
+
+https://blog.r-hub.io/2020/01/27/examples/ R包开发函数示例撰写方法 R包开发
+
+https://www.youtube.com/watch?v=e2396GKFMRY R语言scATAC分析流程 单细胞分析
+
+https://joachimgoedhart.github.io/DataViz-protocols/ R语言可视化电子书 R基础
+
+https://focalplane.biologists.com/2022/10/04/sixty-years-of-gfp-discovery/ R语言可视化时间线 R可视化
+
+https://twitter.com/TheTealTigerUK/status/1578008638173724672 博士论文讨论部分撰写指南 学术写作
+
+https://paperjs.org/features/ paperjs可视化语言 前端
+
+https://stackoverflow.com/questions/2643939/remove-columns-from-dataframe-where-all-values-are-na 删除数据框中全是NA的列 R基础
+
+https://www.datanovia.com/en/lessons/identify-and-remove-duplicate-data-in-r/ 识别数据框中重复行 R基础
 
