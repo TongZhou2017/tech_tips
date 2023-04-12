@@ -1654,3 +1654,147 @@ https://stackoverflow.com/questions/2643939/remove-columns-from-dataframe-where-
 
 https://www.datanovia.com/en/lessons/identify-and-remove-duplicate-data-in-r/ 识别数据框中重复行 R基础
 
+https://twitter.com/Ella_Maru/status/1626670710469845016 科研绘图工具 科研绘图
+
+https://twitter.com/mdziemann/status/1626407797939384320 基因富集问题 富集分析
+
+https://www.biostars.org/p/272351/ fastq文件质量值修改 生信基础 https://github.com/BioInfoTools/BBMap/blob/master/sh/reformat.sh https://manpages.debian.org/testing/bbmap/reformat.sh.1.en.html
+
+https://john-quensen.com/tutorials/procrustes-analysis/ 普氏分析 普氏分析
+
+https://dplyr.tidyverse.org/reference/relocate.html 数据框列位置重定位 R基础
+
+https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/ sed命令 Linux基础
+
+https://gis.stackexchange.com/questions/6025/finding-centroid-of-cluster-of-points-using-r 重心计算 R基础
+
+https://blog.csdn.net/leeningzzu/article/details/104662955 两样本秩和配对检验 R统计
+
+https://rfunctions.blogspot.com/2019/03/betadisper-and-adonis-homogeneity-of.html 两样本非配对beta多样性指数差异分析 生态统计
+
+https://mengte.online/archives/2426 配对t检验 R统计
+
+https://stackoverflow.com/questions/66356101/t-test-does-not-add-adjusted-p-values 添加p值矫正 R统计
+
+https://www.cedricscherer.com/2021/06/06/visualizing-distributions-with-raincloud-plots-and-how-to-create-them-with-ggplot2/ ggplot密度图加小竖杠 R可视化
+
+https://cran.r-project.org/web/packages/bubbleHeatmap/index.html 气泡热图 R可视化
+
+https://twitter.com/tangming2005/status/1628764214486507520 空间转录组重要资源 空间转录组
+
+https://nflplotr.nflverse.com/reference/gt_render_image.html 表格转图片R包 R基础
+
+https://github.com/GuangchuangYu/dlstats R包下载量统计 R包开发
+
+https://search.r-project.org/CRAN/refmans/usedist/html/dist_subset.html 提取dist矩阵对象子矩阵 R基础
+
+https://github.com/nanoporetech/dorado Nanopore信号识别工具 Nanopore
+
+https://stackoverflow.com/questions/20049980/coerce-association-matrix-from-vegdist-into-a-dataframe dist对象转为矩阵 R基础
+
+https://twitter.com/AlbertVilella/status/1633764651052695552 测序厂家列表 基因行业 https://docs.google.com/spreadsheets/d/1W32_L2vy9dg5bIqW8oI0-fhEEkFw4PzwjYoFvic0crU/edit#gid=1485521874
+
+https://stackoverflow.com/questions/32129687/list-files-all-files-in-directory-and-subdirectories R语言列举子文件夹内容 R基础
+
+https://datavizpyr.com/category/python/altair/ R与Python可视化教程 可视化
+
+https://cran.r-project.org/web/packages/umap/vignettes/umap.html R语言UMAP教程 R可视化
+
+https://grunwaldlab.github.io/analysis_of_microbiome_community_data_in_r/07--diversity_stats.html R语言微生态分析教程多样性计算及物种组成树形可视化 扩增子分析
+
+https://stackoverflow.com/questions/44533319/how-to-assign-more-memory-to-docker-container docker调整资源配置 docker
+
+https://stackoverflow.com/questions/14568662/paste-multiple-columns-together 数据框多列数据合并 R基础
+
+https://stackoverflow.com/questions/63023526/unexported-object-imported-by-a-call-tsfeaturesscalets R包内置函数调用方法 R包开发
+
+https://sparkbyexamples.com/r-programming/replace-na-values-with-zero-in-r-dataframe/#:~:text=Replace%20NA%20values%20with%200%20using%20is.na(),-is.na()&text=So%20by%20specifying%20it%20inside,0)%20in%20an%20R%20DataFrame. R替换空值 R基础
+
+https://datacornering.com/move-column-to-a-specific-position-in-r/ R数据框列顺序改变 R基础
+
+https://dplyr.tidyverse.org/articles/rowwise.html R数据框行范围内计算均值 R基础
+
+https://cran.r-project.org/web/packages/validate/index.html 数据质量检验R包 数据科学
+
+https://developer.r-project.org/blosxom.cgi/R-devel/NEWS/2023/02/13?utm_source=dlvr.it&utm_medium=twitter#n2023-02-13 R语言更新增加_表达式 R基础
+
+https://twitter.com/tangming2005/status/1635634533163753477 生物信息学入门基础系列教程 生物信息入门
+
+https://search.r-project.org/CRAN/refmans/raster/html/pointDistance.html R语言计算两点间距离 R基础
+
+https://mengte.online/archives/239 单向量的t检验 R统计
+
+https://stackoverflow.com/questions/12196756/significance-level-added-to-matrix-correlation-heatmap-using-ggplot2 热图增加显著性标注的ggplot2方法 R可视化
+
+https://sparkbyexamples.com/r-programming/remove-duplicate-rows-in-r/#:~:text=R%20base%20provides%20duplicated(),single%20column%2C%20or%20selected%20columns. R删除重复行 R基础
+
+https://sejohnston.com/2012/08/09/a-quick-and-easy-function-to-plot-lm-results-in-r/ 线性回归可视化 R统计
+
+https://fulcrumgenomics.com/careers/ 纯生物信息公司 职业发展
+
+https://smruthikarthikeyan.com/publications 南加州大学微生物组学Karthikeyan实验室Knight博后 职业发展
+
+https://www.youtube.com/watch?v=kiya0Cdl010 高效数据科学团队构建 创业
+
+https://github.com/rpetit3/fastq-dl SRA等数据下载方法 生物信息基础
+
+https://cloud.tencent.com/developer/article/1411715 R语言线性回归分析 R基础
+
+https://stats.oarc.ucla.edu/r/faq/how-can-i-perform-a-mantel-test-in-r/#:~:text=A%20Mantel%20test%20measures%20the%20correlation%20between%20two,we%20can%20perform%20a%20Mantel%20test%20in%20R. mantel检验的R语言方法用于多维矩阵的距离比较 R统计
+
+https://learningstatisticswithr.com/ R语言统计学教程 R统计
+
+https://xiezuocat.com/ 语言改写工具 Ai工具
+
+http://blog.phytools.org/2023/03/mapping-value-of-continuous-trait-at.html 系统发育树美化之渐变色注释 R可视化
+
+https://scholar.google.com/citations?user=2GWMBj8AAAAJ&hl=en R系统发育树计算与可视化大佬 大佬
+
+https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl zotero参考文献格式文件 zotero
+
+https://stackoverflow.com/questions/1330989/rotating-and-spacing-axis-labels-in-ggplot2 ggplot坐标轴标签旋转 R可视化
+
+http://www.sthda.com/english/wiki/ggplot2-title-main-axis-and-legend-titles ggplot标题及坐标轴名设置 R可视化
+
+https://www.cyberciti.biz/faq/how-to-print-filename-with-awk-on-linux-unix/ awk输出输入文件名 linux基础
+
+https://patents.google.com/patent/WO2022040749A1/en eDNA采样方法文件 eDNA
+
+https://twitter.com/jrossibarra/status/1633472890422317056 30bp短序列比对方法 生物信息基础
+
+https://jenteottenburghs.wordpress.com/2023/03/08/writing-a-scientific-paper-is-not-a-linear-process/ 论文写作教程 论文撰写
+
+https://github.com/bodkan/demografr/blob/main/ProbGen23_poster.pdf 系统发育分析R包 系统发育分析
+
+https://gaussianwriter.medium.com/exploring-linear-regression-in-r-f33a94dff164 回归分析R语言方法 R统计
+
+https://view6.workcast.net/register?cpak=5858597187268082 Seurat5发布会 单细胞分析工具
+
+https://zhidao.baidu.com/question/1176914818737346499.html nt和bp的区别 生物学基础
+
+https://lgatto.github.io/scp-job-2023/ 单细胞蛋白组职位 职业发展
+
+https://leanpub.com/ 在线图书发表平台 数据科学
+
+https://www.mfeprimer.com/ 引物设计工具 生物信息工具
+
+https://pubmed.ncbi.nlm.nih.gov/36814842/ 宏基因组用于鱼类的微生物组解析 微生物组
+
+https://www.citedrive.com/r-markdown/ R语言Rmd引用工具 markdown
+
+https://jonlefcheck.net/2012/10/24/nmds-tutorial-in-r/ NMDS的R语言分析 R统计
+
+https://archetypalecology.wordpress.com/2018/02/18/non-metric-multidimensional-scaling-nmds-what-how/ NMDS的R语言分析 R统计
+
+https://docplayer.net/99118517-Smrt-analysis-barcoding-overview-v5-1-0.html PacBio混样建库barcoding技术 三代扩增子
+
+https://github.com/ihh/dart 比对文件格式转换工具 生物信息工具
+
+https://stackoverflow.com/questions/64877908/how-to-calculate-euclidean-distance-in-r-for-n-dimensions 多维空间点Euclidean距离计算方法 R统计
+
+https://stackoverflow.com/questions/2460065/how-can-i-create-a-new-file-using-a-variable-value-as-the-name-in-perl Perl动态输出文件名 Perl基础
+
+https://stackoverflow.com/questions/62594820/select-column-with-the-longest-string-in-r 以行范围内最长列信息创建新的列 R基础
+
+https://www.r-bloggers.com/2022/06/how-to-count-distinct-values-in-r/ 计算数据框非冗余元素个数 R基础
+
