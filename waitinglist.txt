@@ -1798,3 +1798,43 @@ https://stackoverflow.com/questions/62594820/select-column-with-the-longest-stri
 
 https://www.r-bloggers.com/2022/06/how-to-count-distinct-values-in-r/ 计算数据框非冗余元素个数 R基础
 
+https://sparkbyexamples.com/r-programming/convert-list-to-r-dataframe/ list转dataframe R基础
+
+https://blog.csdn.net/yitian_z/article/details/105380505 word导出PDF 办公软件
+
+https://bioconductor.org/packages/release/bioc/html/scBubbletree.html 用于单细胞数据的气泡图可视化R包 R可视化
+
+https://blog.sciencenet.cn/blog-3334560-1137465.html iTOL中文教程 iTOL
+
+https://swcyo.rbind.io/course/2022-11-28-pak/pak/ R包安装 R基础 https://pak.r-lib.org/reference/install.html#stable-rc-and-devel-streams
+
+https://github.com/fmmattioni/downloadthis/blob/master/_pkgdown.yml 优秀pkgdown布局yml案例 pkgdown
+
+https://github.com/hiruna72/squigualiser Nanopore原始信号可视化分析工具 Nanopore
+
+https://www.svgrepo.com/ 免费矢量图标库 科研绘图
+
+https://sparkbyexamples.com/r-programming/group-by-sum-in-r/ 数据框分组加和 R基础
+
+https://rdrr.io/rforge/splits/man/gmyc.html 基于系统发育关系的聚类方法 GMYC
+
+https://employment.ku.dk/faculty/?show=158808 古eDNA博后职位 职业发展
+
+http://blog.phytools.org/2023/03/update-to-fitpagel-binary-trait.html phytools包binary图示例 系统发育树美化
+
+http://www.greeninglab.com/about/ 澳洲能发正刊的新实验室 职业发展
+
+https://osf.io/ur4xn/ 基于RStudio和Quarto的可复现写作 论文撰写
+
+https://link.springer.com/book/10.1007/978-1-0716-2871-3 微生物环境基因组电子书 微生物组
+
+https://book-wright-ma.github.io/Book-WM-20210422.pdf 高维数据分析方法 统计学
+
+https://stackoverflow.com/questions/23389547/include-code-that-does-not-run-in-rpresentation-markdown Rmarkdown只显示不运行设置 Rmd基础
+
+https://stackoverflow.com/questions/31861868/how-to-check-if-an-argument-is-a-file-or-a-directory-in-r 文件或文件夹判断 R基础
+
+https://appsilon.github.io/shiny.blueprint/index.html shiny高效组件库 shiny
+
+https://taylorpriest.com/ 一个海洋微生物生态学者 学者
+
