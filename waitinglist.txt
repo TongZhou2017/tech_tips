@@ -1331,8 +1331,12 @@ https://twitter.com/udara_94/status/1531953068753010689 生物信息图库素材
 
 https://github.com/bxlab/metaWRAP 宏基因组binning分析流程 宏基因组
 
+<<<<<<< Updated upstream
 https://twitter.com/tangming2005/status/1532011441015889921 表格内绘制频次分布图
  R可视化
+=======
+https://twitter.com/tangming2005/status/1532011441015889921 表格内绘制频次分布图 R可视化
+>>>>>>> Stashed changes
 
 https://twitter.com/eDNAcollab/status/1532155569661878273 eDNA小额项目资助 项目
 
@@ -1364,6 +1368,7 @@ https://docs.microsoft.com/en-us/learn/paths/machine-learning-with-r/ R语言机
 
 https://citedrive.com/blog/data-visualization-packages-for-r-you-should-check-out R语言数据可视化包 R可视化
 
+<<<<<<< Updated upstream
 https://www.itranslater.com/qa/details/2583165583978136576 R语言数据框比较 R基础
 
 https://bookdown.org/Maxine/r4ds/comparing-two-data-frames-tibbles.html R语言数据框比较 R基础
@@ -1837,4 +1842,18 @@ https://stackoverflow.com/questions/31861868/how-to-check-if-an-argument-is-a-fi
 https://appsilon.github.io/shiny.blueprint/index.html shiny高效组件库 shiny
 
 https://taylorpriest.com/ 一个海洋微生物生态学者 学者
+=======
+https://twitter.com/envDNA eDNA文献列表 eDNA
+
+https://twitter.com/LaplanteMathieu/status/1537010885977325569 吐槽老板要求学生发正刊 科研生活
+
+https://willymaps.github.io/spoke/ 全球机场分布及动态显示最近的10个 可视化
+
+https://www.rayrender.net/ R语言三维建模包 R可视化
+
+https://www.bilibili.com/video/av928199541/ mac远程控制 mac基础
+
+http://hbiostat.org/ R语言网站 博客
+
+>>>>>>> Stashed changes
 
